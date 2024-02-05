@@ -1,0 +1,1482 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: DWT Elementor Widgets\n"
+"POT-Creation-Date: 2022-04-19 12:13+0500\n"
+"PO-Revision-Date: 2022-04-19 12:13+0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: dwt-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: dwt-elementor.php:59
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "\"%1$s\" يتطلب تثبيت \"%2$s\" وتنشيطه."
+
+#: dwt-elementor.php:60 dwt-elementor.php:72
+msgid "DWT Elementor Widgets "
+msgstr "DWT Elementor أو الحاجيات"
+
+#: dwt-elementor.php:61 dwt-elementor.php:85
+msgid "Elementor "
+msgstr "مصمم الصفحات"
+
+#: dwt-elementor.php:71 dwt-elementor.php:84
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "يتطلب \"%1$s\" إصدار \"%2$s\" %3$s أو أكبر."
+
+#: dwt-elementor.php:73
+msgid "Elementor"
+msgstr "مصمم الصفحات"
+
+#: dwt-elementor.php:86
+msgid "PHP"
+msgstr "Php"
+
+#: plugin.php:103
+msgid "DWT Listing Widgets"
+msgstr "DWT سرد الحاجيات"
+
+#: shortcodes-html.php:25
+msgid "No Image"
+msgstr "لا توجد صورة"
+
+#: shortcodes-html.php:45 shortcodes-html.php:113 shortcodes-html.php:131
+#: shortcodes-html.php:1704 shortcodes-html.php:1707 shortcodes-html.php:1751
+#: shortcodes-html.php:1754
+msgid "Image Not Found"
+msgstr "لم يتم العثور علي الصورة"
+
+#: shortcodes-html.php:431
+msgid "read more"
+msgstr "اقرأ المزيد"
+
+#: shortcodes-html.php:574 shortcodes-html.php:580 shortcodes-html.php:643
+#: shortcodes-html.php:1018 shortcodes-html.php:3345 shortcodes-html.php:4063
+msgid "image not found"
+msgstr "لم يتم العثور علي الصورة"
+
+#: shortcodes-html.php:718 shortcodes-html.php:802 shortcodes-html.php:942
+#: shortcodes-html.php:1192 shortcodes-html.php:1269 shortcodes-html.php:3849
+msgid "Listings"
+msgstr "الإعلانات"
+
+#: shortcodes-html.php:875 shortcodes-html.php:3850
+msgid "Events"
+msgstr "الأحداث"
+
+#: shortcodes-html.php:1187 shortcodes-html.php:2484 shortcodes-html.php:2822
+#: shortcodes-html.php:2901 shortcodes-html.php:2902
+msgid "not found"
+msgstr "طلبك غير متوفر"
+
+#: shortcodes-html.php:1577
+msgid "Shop Now"
+msgstr "ارسال"
+
+#: shortcodes-html.php:2429
+msgid "DWT Listing app"
+msgstr "التطبيق قائمه DWT"
+
+#: shortcodes-html.php:2435
+msgid "android icon"
+msgstr "أندرويد"
+
+#: shortcodes-html.php:2436 shortcodes-html.php:2443
+msgid "Download from"
+msgstr "تنزيل من"
+
+#: shortcodes-html.php:2437
+msgid "Play Store"
+msgstr "متجر جوجل بلاي"
+
+#: shortcodes-html.php:2442
+msgid "ios icon"
+msgstr "رمز دائره الرقابة الخاصة"
+
+#: shortcodes-html.php:2444
+msgid "App Store"
+msgstr "متجر تطبيقات آبل"
+
+#: shortcodes-html.php:2499 shortcodes-html.php:2713 shortcodes-html.php:2723
+#: shortcodes-html.php:2730 shortcodes-html.php:2734
+msgid "Processing..."
+msgstr "معالجة..."
+
+#: shortcodes-html.php:2710 shortcodes-html.php:2716
+msgid "Already Purchased"
+msgstr "تم شراؤها بالفعل"
+
+#: shortcodes-html.php:2713 shortcodes-html.php:2723 shortcodes-html.php:2730
+#: shortcodes-html.php:2734
+msgid "Choose plan"
+msgstr "اختر نوع الاشتراك"
+
+#: shortcodes-html.php:2720 shortcodes-html.php:2728
+msgid "Already Used"
+msgstr "هل لديك حساب بالفعل ؟ الدخول هنا"
+
+#: shortcodes-html.php:2738
+msgid "Disable for Demo"
+msgstr "تعطيل الديمو"
+
+#: shortcodes-html.php:3517 shortcodes-html.php:3659 shortcodes-html.php:3801
+#: shortcodes-html.php:4334
+msgid "By Street Address"
+msgstr "العنوان"
+
+#: shortcodes-html.php:3518 shortcodes-html.php:3660 shortcodes-html.php:3802
+#: shortcodes-html.php:4335
+msgid "Location..."
+msgstr "الموقع ..."
+
+#: shortcodes-html.php:3535 shortcodes-html.php:3703
+msgid "dwt-listing"
+msgstr "الحمولة الساكنة القائمة"
+
+#: shortcodes-html.php:3546 widgets/about-us-two.php:142
+#: widgets/about-us.php:125 widgets/contact-us.php:84
+#: widgets/contact-us.php:113 widgets/contact-us.php:142
+#: widgets/contact-us.php:171 widgets/fun-facts-new.php:75
+#: widgets/fun-facts.php:75 widgets/how-it-work-new.php:115
+#: widgets/how-it-work.php:94
+msgid "Title"
+msgstr "العنوان"
+
+#: shortcodes-html.php:3550 shortcodes-html.php:3860 shortcodes-html.php:3892
+#: shortcodes-html.php:3994 shortcodes-html.php:4188 shortcodes-html.php:4358
+msgid "What are you looking for"
+msgstr "اكتب كلمة البحث"
+
+#: shortcodes-html.php:3556 shortcodes-html.php:3866 shortcodes-html.php:3897
+#: shortcodes-html.php:4193 widgets/all-events.php:170
+#: widgets/all-events.php:180 widgets/all-listings.php:200
+#: widgets/categories-elegant.php:150 widgets/categories.php:116
+#: widgets/category-minimal.php:137 widgets/custom-location-fancy.php:125
+#: widgets/custom-locations.php:129 widgets/event-categories.php:105
+#: widgets/hero_eight.php:103 widgets/hero_five.php:132
+#: widgets/hero_four.php:95 widgets/hero_one.php:125 widgets/hero_one.php:171
+#: widgets/hero_one.php:208 widgets/hero_two.php:104 widgets/hero_two.php:190
+#: widgets/listing-advertisement.php:197 widgets/listing-gallery.php:154
+#: widgets/listing-slider.php:172 widgets/listing-with-sidebar.php:197
+#: widgets/shop-categories.php:119 widgets/shop-categories.php:141
+#: widgets/shop-grid-slider.php:175 widgets/shop-grid-slider.php:185
+#: widgets/shop-with-tab.php:155 widgets/shop-with-tab.php:165
+#: widgets/slider.php:153
+msgid "Select Category"
+msgstr "اختر تصنيف"
+
+#: shortcodes-html.php:3557 shortcodes-html.php:3688 shortcodes-html.php:3867
+#: shortcodes-html.php:3998
+msgid "Select Business Category"
+msgstr "حدد التصنيف المناسب لإعلانك"
+
+#: shortcodes-html.php:3558 shortcodes-html.php:3689 shortcodes-html.php:3868
+#: shortcodes-html.php:3899 shortcodes-html.php:3999 shortcodes-html.php:4194
+#: shortcodes-html.php:4201
+msgid "Select an option"
+msgstr "حدد اختيارا"
+
+#: shortcodes-html.php:3563 shortcodes-html.php:3695 shortcodes-html.php:3752
+#: shortcodes-html.php:3879 shortcodes-html.php:3914 shortcodes-html.php:4004
+#: shortcodes-html.php:4206 shortcodes-html.php:4281 shortcodes-html.php:4370
+msgid "Search"
+msgstr "بحث"
+
+#: shortcodes-html.php:3749
+msgid "What are you looking for ?"
+msgstr "عما تبحث ؟"
+
+#: shortcodes-html.php:3858 shortcodes-html.php:3891
+msgid "Keyword"
+msgstr "كلمة البحث"
+
+#: shortcodes-html.php:3898 widgets/event-slider.php:143
+#: widgets/hero_four.php:179
+msgid "Select Event Category"
+msgstr "حدد فئة الحدث"
+
+#: shortcodes-html.php:3906 widgets/hero_four.php:132 widgets/hero_one.php:141
+#: widgets/hero_ten.php:116 widgets/hero_two.php:120 widgets/hero_two.php:141
+msgid "Location"
+msgstr "الموقع"
+
+#: shortcodes-html.php:3907
+msgid "e.g. Event venues.."
+msgstr "علي سبيل المثال ، أماكن الاحداث.."
+
+#: shortcodes-html.php:3966
+msgid "Popular Tags"
+msgstr "الوسوم"
+
+#: shortcodes-html.php:4120 shortcodes-html.php:4251
+msgid "Video"
+msgstr "فيديو"
+
+#: shortcodes-html.php:4175
+msgid "No Image found"
+msgstr "لم يتم العثور علي الصورة"
+
+#: shortcodes-html.php:4200
+msgid "Filter by Tags"
+msgstr "تصفية حسب العلامات"
+
+#: shortcodes-html.php:4277
+msgid "What Are You Looking For?"
+msgstr "ما الذي تبحث عنه؟"
+
+#: shortcodes-html.php:4354
+msgid "Explore"
+msgstr "استكشاف"
+
+#: widgets/about-us-two.php:20 widgets/about-us-two.php:54
+msgid "About Us(New)"
+msgstr "عن الشركة (جديد)"
+
+#: widgets/about-us-two.php:61 widgets/about-us.php:57
+msgid "About Heading"
+msgstr "حول"
+
+#: widgets/about-us-two.php:63 widgets/about-us-two.php:64
+#: widgets/about-us.php:59 widgets/about-us.php:61
+msgid "About DWT Listing Directory"
+msgstr "حول دليل إدخال DWT"
+
+#: widgets/about-us-two.php:73 widgets/about-us.php:69
+msgid "Your Tagline"
+msgstr "(الشعار) الخط"
+
+#: widgets/about-us-two.php:83 widgets/about-us.php:78
+#: widgets/all-events.php:74 widgets/all-listings.php:74
+#: widgets/app-sections.php:109 widgets/blogs.php:73
+#: widgets/call-to-action-one.php:73 widgets/call_to_action_elegent.php:84
+#: widgets/call_to_action_modern.php:68 widgets/call_to_action_two.php:82
+#: widgets/categories-elegant.php:72 widgets/categories.php:72
+#: widgets/category-minimal.php:69 widgets/clients.php:71
+#: widgets/custom-location-fancy.php:73 widgets/custom-locations.php:74
+#: widgets/event-categories.php:61 widgets/faqs.php:71 widgets/faqs.php:144
+#: widgets/how-it-work-new.php:73 widgets/how-it-work.php:73
+#: widgets/listing-advertisement.php:73 widgets/listing-gallery.php:71
+#: widgets/listing-slider.php:73 widgets/listing-with-sidebar.php:73
+#: widgets/packages.php:67 widgets/shop-categories.php:73
+#: widgets/shop-grid-slider.php:73 widgets/shop-with-tab.php:73
+#: widgets/testimonials.php:73 widgets/testimonials_new.php:73
+#: widgets/text-block.php:73
+msgid "Section Description"
+msgstr "وصف القسم"
+
+#: widgets/about-us-two.php:92
+msgid "Grid Image Position"
+msgstr "موضع صورة الشبكة"
+
+#: widgets/about-us-two.php:95 widgets/about-us.php:103
+msgid "Right"
+msgstr "يمين"
+
+#: widgets/about-us-two.php:96 widgets/about-us.php:104
+msgid "Left"
+msgstr "يسار"
+
+#: widgets/about-us-two.php:105
+msgid "Main Button Title"
+msgstr "العنوان الرئيسي لسمة الصفحة الرئيسية"
+
+#: widgets/about-us-two.php:107 widgets/all-events.php:137
+#: widgets/all-listings.php:155 widgets/blogs.php:97
+#: widgets/call-to-action-one.php:85 widgets/call_to_action_elegent.php:96
+#: widgets/call_to_action_modern.php:80 widgets/call_to_action_two.php:94
+#: widgets/call_to_action_two.php:119 widgets/categories-elegant.php:84
+#: widgets/category-minimal.php:81 widgets/hero_seven.php:103
+#: widgets/hero_six.php:95 widgets/hero_six.php:120
+#: widgets/listing-advertisement.php:153 widgets/listing-with-sidebar.php:153
+#: widgets/shop-categories.php:85 widgets/shop-grid-slider.php:136
+#: widgets/shop-with-tab.php:85 widgets/slider.php:118
+msgid "Button title here"
+msgstr "عنوان الزر هنا"
+
+#: widgets/about-us-two.php:108
+msgid "Explore Listings"
+msgstr "استكشاف القوائم"
+
+#: widgets/about-us-two.php:116
+msgid "Main Button Link"
+msgstr "عرض الارتباط"
+
+#: widgets/about-us-two.php:118 widgets/all-events.php:147
+#: widgets/all-listings.php:166 widgets/blogs.php:107
+#: widgets/call-to-action-one.php:95 widgets/call_to_action_elegent.php:106
+#: widgets/call_to_action_modern.php:91 widgets/call_to_action_two.php:104
+#: widgets/call_to_action_two.php:129 widgets/categories-elegant.php:94
+#: widgets/category-minimal.php:91 widgets/hero_seven.php:113
+#: widgets/hero_six.php:105 widgets/hero_six.php:130
+#: widgets/listing-advertisement.php:163 widgets/listing-with-sidebar.php:163
+#: widgets/shop-categories.php:95 widgets/shop-grid-slider.php:149
+#: widgets/shop-with-tab.php:95 widgets/slider.php:128
+msgid "https://your-link.com"
+msgstr "https://themeforest.net/user/scriptsbundle/"
+
+#: widgets/about-us-two.php:134 widgets/about-us.php:117
+msgid "Features"
+msgstr "الميزات"
+
+#: widgets/about-us-two.php:150 widgets/about-us.php:133
+#: widgets/custom-location-fancy.php:103 widgets/how-it-work-new.php:124
+#: widgets/how-it-work.php:103 widgets/testimonials.php:103
+#: widgets/testimonials_new.php:103
+msgid "Description"
+msgstr "الوصف"
+
+#: widgets/about-us-two.php:158 widgets/about-us.php:141
+#: widgets/custom-location-fancy.php:113 widgets/custom-locations.php:117
+msgid "Location Image"
+msgstr "صورة الموقع"
+
+#: widgets/about-us-two.php:160
+msgid "Recommended image size 64x64 .png"
+msgstr "حجم الصورة الموصي بها 64x64. png"
+
+#: widgets/about-us-two.php:171 widgets/about-us.php:154
+msgid "Feature List"
+msgstr "قائمة الميزات"
+
+#: widgets/about-us-two.php:176 widgets/about-us-two.php:216
+#: widgets/about-us.php:159
+msgid "Your Title"
+msgstr "لقبك"
+
+#: widgets/about-us-two.php:177 widgets/about-us.php:160
+msgid "Some Description"
+msgstr "الوصف:"
+
+#: widgets/about-us-two.php:190 widgets/about-us-two.php:211
+msgid "Grid Images"
+msgstr "صور الشبكة"
+
+#: widgets/about-us-two.php:198
+msgid "Grid Image"
+msgstr "صورة الشبكة"
+
+#: widgets/about-us-two.php:200
+msgid "Recommended image size 260x260 & should be 4 images to avoid design conflict"
+msgstr "وينبغي ان حجم الصورة الموصي بها 260x260 و 4 صور لتجنب تعارض التصميم"
+
+#: widgets/about-us.php:18 widgets/about-us.php:47
+msgid "About Us"
+msgstr "معلومات عنا"
+
+#: widgets/about-us.php:87
+msgid "About Image"
+msgstr "عن المؤسسة"
+
+#: widgets/about-us.php:100
+msgid "Image Position"
+msgstr "موضع الصورة"
+
+#: widgets/about-us.php:143 widgets/fun-facts.php:86
+msgid "Size must be 64X64"
+msgstr "حجم الصورة الموصي بها 64x64. png"
+
+#: widgets/all-events.php:23
+msgid "All Events"
+msgstr "كل الأحداث "
+
+#: widgets/all-events.php:57 widgets/all-listings.php:57
+#: widgets/app-sections.php:58 widgets/blogs.php:56
+#: widgets/categories-elegant.php:55 widgets/categories.php:55
+#: widgets/category-minimal.php:52 widgets/clients.php:55
+#: widgets/contact-us.php:57 widgets/custom-location-fancy.php:57
+#: widgets/custom-locations.php:57 widgets/event-categories.php:44
+#: widgets/event-slider.php:57 widgets/faqs.php:55 widgets/hero_eight.php:57
+#: widgets/hero_five.php:57 widgets/hero_four.php:57 widgets/hero_nine.php:57
+#: widgets/hero_one.php:57 widgets/hero_seven.php:57 widgets/hero_six.php:57
+#: widgets/hero_ten.php:57 widgets/hero_three.php:57 widgets/hero_two.php:57
+#: widgets/how-it-work-new.php:57 widgets/how-it-work.php:57
+#: widgets/listing-advertisement.php:57 widgets/listing-gallery.php:55
+#: widgets/listing-slider.php:57 widgets/listing-with-sidebar.php:57
+#: widgets/newsletter.php:57 widgets/packages.php:51
+#: widgets/shop-categories.php:57 widgets/shop-grid-slider.php:57
+#: widgets/shop-with-tab.php:57 widgets/slider.php:57
+#: widgets/testimonials.php:57 widgets/testimonials_new.php:57
+#: widgets/text-block.php:57 widgets/text-block.php:85
+msgid "Basic"
+msgstr "أساسي"
+
+#: widgets/all-events.php:64 widgets/all-listings.php:64
+#: widgets/app-sections.php:100 widgets/blogs.php:63
+#: widgets/call-to-action-one.php:63 widgets/call_to_action_elegent.php:74
+#: widgets/call_to_action_modern.php:58 widgets/call_to_action_two.php:63
+#: widgets/categories-elegant.php:62 widgets/categories.php:62
+#: widgets/category-minimal.php:59 widgets/clients.php:62
+#: widgets/custom-location-fancy.php:64 widgets/custom-locations.php:64
+#: widgets/event-categories.php:51 widgets/event-slider.php:64
+#: widgets/faqs.php:62 widgets/faqs.php:135 widgets/hero_eight.php:64
+#: widgets/hero_five.php:64 widgets/hero_four.php:64 widgets/hero_nine.php:73
+#: widgets/hero_one.php:64 widgets/hero_six.php:64 widgets/hero_ten.php:64
+#: widgets/hero_three.php:64 widgets/hero_two.php:64
+#: widgets/how-it-work-new.php:64 widgets/how-it-work.php:64
+#: widgets/listing-advertisement.php:64 widgets/listing-gallery.php:62
+#: widgets/listing-slider.php:64 widgets/listing-with-sidebar.php:64
+#: widgets/packages.php:58 widgets/shop-categories.php:64
+#: widgets/shop-grid-slider.php:64 widgets/shop-with-tab.php:64
+#: widgets/testimonials.php:64 widgets/testimonials_new.php:64
+#: widgets/text-block.php:64
+msgid "Section Title"
+msgstr "عنوان القسم"
+
+#: widgets/all-events.php:66
+msgid "Latest Events"
+msgstr "آخر الاحداث"
+
+#: widgets/all-events.php:67 widgets/all-listings.php:67
+#: widgets/app-sections.php:102 widgets/call-to-action-one.php:66
+#: widgets/call_to_action_elegent.php:77 widgets/call_to_action_modern.php:61
+#: widgets/call_to_action_two.php:66 widgets/categories-elegant.php:65
+#: widgets/categories.php:65 widgets/category-minimal.php:62
+#: widgets/clients.php:64 widgets/contact-us.php:86 widgets/contact-us.php:115
+#: widgets/contact-us.php:144 widgets/contact-us.php:173
+#: widgets/custom-location-fancy.php:66 widgets/custom-locations.php:67
+#: widgets/event-categories.php:54 widgets/event-slider.php:67
+#: widgets/faqs.php:64 widgets/faqs.php:94 widgets/faqs.php:137
+#: widgets/faqs.php:157 widgets/hero_eight.php:67 widgets/hero_five.php:67
+#: widgets/hero_four.php:67 widgets/hero_nine.php:76 widgets/hero_one.php:67
+#: widgets/hero_six.php:67 widgets/hero_ten.php:67 widgets/hero_ten.php:96
+#: widgets/hero_three.php:67 widgets/hero_two.php:67
+#: widgets/how-it-work-new.php:66 widgets/how-it-work.php:66
+#: widgets/listing-advertisement.php:66 widgets/listing-gallery.php:64
+#: widgets/listing-slider.php:66 widgets/listing-with-sidebar.php:66
+#: widgets/packages.php:60 widgets/shop-categories.php:66
+#: widgets/shop-grid-slider.php:66 widgets/shop-with-tab.php:66
+#: widgets/slider.php:98 widgets/testimonials.php:66
+#: widgets/testimonials.php:96 widgets/testimonials.php:115
+#: widgets/testimonials_new.php:66 widgets/testimonials_new.php:96
+#: widgets/testimonials_new.php:115 widgets/text-block.php:66
+msgid "Put title here"
+msgstr "وضع النص هنا"
+
+#: widgets/all-events.php:76 widgets/app-sections.php:111
+#: widgets/call-to-action-one.php:75 widgets/call_to_action_elegent.php:86
+#: widgets/call_to_action_modern.php:70 widgets/call_to_action_two.php:84
+#: widgets/categories-elegant.php:74 widgets/categories-elegant.php:130
+#: widgets/categories.php:74 widgets/category-minimal.php:71
+#: widgets/clients.php:73 widgets/custom-location-fancy.php:75
+#: widgets/custom-location-fancy.php:105 widgets/custom-locations.php:76
+#: widgets/event-categories.php:63 widgets/faqs.php:73 widgets/faqs.php:103
+#: widgets/faqs.php:146 widgets/how-it-work-new.php:75
+#: widgets/how-it-work.php:75 widgets/listing-advertisement.php:75
+#: widgets/listing-gallery.php:73 widgets/listing-slider.php:75
+#: widgets/listing-with-sidebar.php:75 widgets/packages.php:69
+#: widgets/shop-categories.php:75 widgets/shop-grid-slider.php:75
+#: widgets/shop-with-tab.php:75 widgets/slider.php:107
+#: widgets/testimonials.php:75 widgets/testimonials.php:105
+#: widgets/testimonials_new.php:75 widgets/testimonials_new.php:105
+#: widgets/text-block.php:75
+msgid "Put Description here"
+msgstr "الوصف هنا"
+
+#: widgets/all-events.php:87
+msgid "Event Settings"
+msgstr "الإعدادات"
+
+#: widgets/all-events.php:94 widgets/all-listings.php:110
+#: widgets/event-slider.php:96 widgets/listing-advertisement.php:108
+#: widgets/listing-gallery.php:106 widgets/listing-slider.php:108
+#: widgets/listing-with-sidebar.php:108 widgets/shop-grid-slider.php:119
+#: widgets/shop-with-tab.php:117
+msgid "Order By"
+msgstr "ترتيب حسب"
+
+#: widgets/all-events.php:98 widgets/all-listings.php:114
+#: widgets/event-slider.php:99 widgets/listing-advertisement.php:112
+#: widgets/listing-gallery.php:110 widgets/listing-slider.php:112
+#: widgets/listing-with-sidebar.php:112 widgets/shop-grid-slider.php:123
+#: widgets/shop-with-tab.php:121
+msgid "Oldest"
+msgstr "الأقدم"
+
+#: widgets/all-events.php:99 widgets/all-listings.php:115
+#: widgets/event-slider.php:100 widgets/listing-advertisement.php:113
+#: widgets/listing-gallery.php:111 widgets/listing-slider.php:113
+#: widgets/listing-with-sidebar.php:113 widgets/shop-grid-slider.php:124
+#: widgets/shop-with-tab.php:122
+msgid "Latest"
+msgstr "أحدث قسم الإعلانات"
+
+#: widgets/all-events.php:100 widgets/all-listings.php:116
+#: widgets/event-slider.php:101 widgets/listing-advertisement.php:114
+#: widgets/listing-gallery.php:112 widgets/listing-slider.php:114
+#: widgets/listing-with-sidebar.php:114 widgets/shop-grid-slider.php:125
+#: widgets/shop-with-tab.php:123
+msgid "Random"
+msgstr "مجرد عدد عشوائي التي تم إنشاؤها من قبلك لأمن التطبيق"
+
+#: widgets/all-events.php:109 widgets/all-listings.php:125
+#: widgets/event-slider.php:84 widgets/listing-advertisement.php:123
+#: widgets/listing-slider.php:123 widgets/listing-with-sidebar.php:123
+msgid "Layout Type"
+msgstr "النوع"
+
+#: widgets/all-events.php:113 widgets/shop-grid-slider.php:109
+msgid "Grid"
+msgstr "شبكة"
+
+#: widgets/all-events.php:114 widgets/call_to_action_elegent.php:158
+#: widgets/call_to_action_elegent.php:167 widgets/listing-with-sidebar.php:130
+msgid "List"
+msgstr "Grid Categories"
+
+#: widgets/all-events.php:123 widgets/event-slider.php:110
+msgid "Number fo Events"
+msgstr "عدد الاحداث"
+
+#: widgets/all-events.php:135 widgets/blogs.php:95
+#: widgets/call-to-action-one.php:83 widgets/call_to_action_elegent.php:94
+#: widgets/call_to_action_modern.php:78 widgets/call_to_action_two.php:92
+#: widgets/call_to_action_two.php:117 widgets/categories-elegant.php:82
+#: widgets/hero_seven.php:101 widgets/shop-categories.php:83
+msgid "Button Title"
+msgstr "عنوان الزر والرابط"
+
+#: widgets/all-events.php:138 widgets/all-events.php:145
+#: widgets/call-to-action-one.php:86 widgets/call_to_action_elegent.php:97
+#: widgets/call_to_action_elegent.php:104 widgets/call_to_action_modern.php:81
+#: widgets/call_to_action_modern.php:89 widgets/call_to_action_two.php:95
+#: widgets/call_to_action_two.php:102 widgets/call_to_action_two.php:120
+#: widgets/call_to_action_two.php:127 widgets/categories-elegant.php:85
+#: widgets/categories-elegant.php:92 widgets/category-minimal.php:82
+#: widgets/hero_seven.php:104 widgets/hero_seven.php:111
+#: widgets/hero_six.php:96 widgets/hero_six.php:121 widgets/hero_six.php:128
+#: widgets/listing-advertisement.php:154 widgets/listing-with-sidebar.php:154
+#: widgets/shop-categories.php:86 widgets/shop-categories.php:93
+#: widgets/shop-grid-slider.php:137 widgets/shop-with-tab.php:86
+#: widgets/slider.php:119
+msgid "Button Link"
+msgstr "رابط الزر"
+
+#: widgets/all-events.php:162 widgets/event-categories.php:21
+#: widgets/event-categories.php:74
+msgid "Event Categories"
+msgstr "التصنيفات"
+
+#: widgets/all-listings.php:23
+msgid "All Listings"
+msgstr "جميع القوائم"
+
+#: widgets/all-listings.php:66
+msgid "Exclusive"
+msgstr "حصري"
+
+#: widgets/all-listings.php:76 widgets/blogs.php:66
+msgid "Put description here"
+msgstr "الوصف هنا"
+
+#: widgets/all-listings.php:87 widgets/listing-advertisement.php:86
+#: widgets/listing-gallery.php:84 widgets/listing-with-sidebar.php:86
+msgid "Listing Settings"
+msgstr "إعدادات الادراج"
+
+#: widgets/all-listings.php:94 widgets/listing-advertisement.php:93
+#: widgets/listing-gallery.php:91 widgets/listing-slider.php:93
+#: widgets/listing-with-sidebar.php:93
+msgid "Listing Type"
+msgstr "نوع القائمة"
+
+#: widgets/all-listings.php:97 widgets/listing-advertisement.php:96
+#: widgets/listing-gallery.php:94 widgets/listing-slider.php:96
+#: widgets/listing-with-sidebar.php:96
+msgid "Select Listing Type"
+msgstr "تحديد نوع التخطيط"
+
+#: widgets/all-listings.php:98 widgets/listing-advertisement.php:97
+#: widgets/listing-gallery.php:95 widgets/listing-slider.php:97
+#: widgets/listing-with-sidebar.php:97
+msgid "Featured Listing"
+msgstr "مميز"
+
+#: widgets/all-listings.php:99 widgets/listing-advertisement.php:98
+#: widgets/listing-gallery.php:96 widgets/listing-slider.php:98
+#: widgets/listing-with-sidebar.php:98
+msgid "Simple Listing"
+msgstr "بسيط"
+
+#: widgets/all-listings.php:100 widgets/listing-advertisement.php:99
+#: widgets/listing-gallery.php:97 widgets/listing-slider.php:99
+#: widgets/listing-with-sidebar.php:99
+msgid "Both"
+msgstr "كلاهما"
+
+#: widgets/all-listings.php:113 widgets/listing-advertisement.php:111
+#: widgets/listing-gallery.php:109 widgets/listing-slider.php:111
+#: widgets/listing-with-sidebar.php:111 widgets/shop-grid-slider.php:122
+#: widgets/shop-with-tab.php:120
+msgid "Select Listing order"
+msgstr "الطلب #"
+
+#: widgets/all-listings.php:128 widgets/listing-advertisement.php:126
+#: widgets/listing-slider.php:126
+msgid "Select Layout Type"
+msgstr "تحديد نوع التخطيط"
+
+#: widgets/all-listings.php:129 widgets/listing-advertisement.php:127
+#: widgets/listing-slider.php:127 widgets/listing-with-sidebar.php:126
+msgid "Grid 1"
+msgstr "عمود واحد"
+
+#: widgets/all-listings.php:130 widgets/listing-advertisement.php:128
+#: widgets/listing-slider.php:128 widgets/listing-with-sidebar.php:127
+msgid "Grid 2"
+msgstr "الشبكة 2"
+
+#: widgets/all-listings.php:131 widgets/listing-advertisement.php:129
+#: widgets/listing-slider.php:129 widgets/listing-with-sidebar.php:128
+msgid "Grid 3"
+msgstr "الشبكة 3"
+
+#: widgets/all-listings.php:132 widgets/listing-advertisement.php:130
+#: widgets/listing-slider.php:130 widgets/listing-with-sidebar.php:129
+msgid "Grid 4"
+msgstr "الشبكة 4"
+
+#: widgets/all-listings.php:141 widgets/listing-advertisement.php:139
+#: widgets/listing-gallery.php:121 widgets/listing-slider.php:139
+#: widgets/listing-with-sidebar.php:139
+msgid "Number fo Listings"
+msgstr "عدد القوائم fo"
+
+#: widgets/all-listings.php:153 widgets/category-minimal.php:79
+#: widgets/hero_six.php:93 widgets/hero_six.php:118
+#: widgets/listing-advertisement.php:151 widgets/listing-with-sidebar.php:151
+#: widgets/shop-grid-slider.php:134 widgets/shop-with-tab.php:83
+msgid "View All"
+msgstr "عرض الكل"
+
+#: widgets/all-listings.php:156 widgets/blogs.php:98
+msgid "View All Listings"
+msgstr "عرض جميع القوائم"
+
+#: widgets/all-listings.php:164 widgets/blogs.php:105
+#: widgets/call-to-action-one.php:93 widgets/category-minimal.php:89
+#: widgets/hero_six.php:103 widgets/listing-advertisement.php:161
+#: widgets/listing-with-sidebar.php:161 widgets/shop-grid-slider.php:147
+#: widgets/shop-with-tab.php:93 widgets/slider.php:126
+msgid "View All Button Link"
+msgstr "عرض الارتباط"
+
+#: widgets/all-listings.php:182
+msgid "Listing Categories"
+msgstr "التصنيفات"
+
+#: widgets/all-listings.php:190 widgets/blogs.php:153
+#: widgets/categories-elegant.php:118 widgets/categories.php:93
+#: widgets/category-minimal.php:115 widgets/event-categories.php:82
+#: widgets/hero_eight.php:93 widgets/hero_five.php:122 widgets/hero_four.php:85
+#: widgets/hero_one.php:115 widgets/hero_two.php:94
+#: widgets/listing-advertisement.php:187 widgets/listing-gallery.php:144
+#: widgets/listing-slider.php:162 widgets/listing-with-sidebar.php:187
+msgid "Category"
+msgstr "التصنيف"
+
+#: widgets/app-sections.php:23
+msgid "App Section"
+msgstr "إظهار التطبيق حول المقطع في صفحه الاعداد"
+
+#: widgets/app-sections.php:65 widgets/call_to_action_modern.php:116
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: widgets/app-sections.php:67
+msgid "image Size Should Be 1280X800"
+msgstr "يجب ان يكون حجم الصورة القصوى"
+
+#: widgets/app-sections.php:78
+msgid "App Image"
+msgstr "أضف صورة"
+
+#: widgets/app-sections.php:80
+msgid "image Size Should Be 400X500"
+msgstr "يجب ان يكون حجم الصورة القصوى"
+
+#: widgets/app-sections.php:91 widgets/call_to_action_elegent.php:64
+#: widgets/call_to_action_two.php:73 widgets/hero_eight.php:74
+#: widgets/hero_five.php:75 widgets/hero_nine.php:83 widgets/hero_one.php:74
+#: widgets/hero_six.php:74 widgets/hero_ten.php:73 widgets/hero_three.php:74
+#: widgets/hero_two.php:74
+msgid "Section Tagline"
+msgstr "مقطع سطر الوصف"
+
+#: widgets/app-sections.php:93 widgets/call_to_action_elegent.php:67
+#: widgets/call_to_action_two.php:75 widgets/hero_eight.php:76
+#: widgets/hero_five.php:77 widgets/hero_nine.php:85 widgets/hero_one.php:76
+#: widgets/hero_seven.php:84 widgets/hero_six.php:76 widgets/hero_ten.php:76
+#: widgets/hero_three.php:76 widgets/hero_two.php:76 widgets/slider.php:89
+msgid "Put tagline here"
+msgstr "ضع الرابط هنا"
+
+#: widgets/app-sections.php:119
+msgid "Android Dwonload Link"
+msgstr "لالروبوت التطبيق"
+
+#: widgets/app-sections.php:121 widgets/app-sections.php:130
+msgid "Put download link here"
+msgstr "ضع الرابط هنا"
+
+#: widgets/app-sections.php:128
+msgid "IOS Dwonload Link"
+msgstr "معرف التطبيق لتطبيق Ios"
+
+#: widgets/blogs.php:22
+msgid "Blogs"
+msgstr "المدونات"
+
+#: widgets/blogs.php:65
+msgid "Recent Aticles"
+msgstr "الطلبات الأخيرة"
+
+#: widgets/blogs.php:75
+msgid "From The Blog"
+msgstr "المدونة"
+
+#: widgets/blogs.php:83
+msgid "Number fo Blogs"
+msgstr "عدد المدونات"
+
+#: widgets/blogs.php:120 widgets/custom-locations.php:84
+msgid "Show Pattern Image"
+msgstr "إظهار صوره النقش"
+
+#: widgets/blogs.php:122 widgets/call_to_action_elegent.php:121
+#: widgets/call_to_action_modern.php:106 widgets/custom-locations.php:86
+#: widgets/hero_nine.php:104 widgets/hero_one.php:94
+msgid "Show"
+msgstr "عرض"
+
+#: widgets/blogs.php:123 widgets/call_to_action_elegent.php:122
+#: widgets/call_to_action_modern.php:107 widgets/custom-locations.php:87
+#: widgets/hero_nine.php:105 widgets/hero_one.php:95
+msgid "Hide"
+msgstr "إخفاء"
+
+#: widgets/blogs.php:135
+msgid "Blog Categories"
+msgstr "أقسام المدونة"
+
+#: widgets/blogs.php:143
+msgid "Blog Category"
+msgstr "تصنيف المدونة"
+
+#: widgets/call-to-action-one.php:22
+msgid "Call To Action"
+msgstr "دعوة الى العمل"
+
+#: widgets/call-to-action-one.php:56 widgets/call_to_action_elegent.php:57
+#: widgets/call_to_action_modern.php:51 widgets/call_to_action_two.php:56
+#: widgets/text-block.php:92
+msgid "Content Area"
+msgstr "منطقه المحتوي"
+
+#: widgets/call-to-action-one.php:65 widgets/call_to_action_two.php:65
+msgid "Larnge business directory theme "
+msgstr "نسق دليل الأعمال Larnge"
+
+#: widgets/call_to_action_elegent.php:23
+msgid "Call To Action(Elegent)"
+msgstr "دعوة إلى العمل(Elegent)"
+
+#: widgets/call_to_action_elegent.php:66
+msgid "Want to sale your car ?"
+msgstr "اختر السيارة التي تريد مقارنتها"
+
+#: widgets/call_to_action_elegent.php:76
+msgid "Car Inspection"
+msgstr "قائمه التفتيش"
+
+#: widgets/call_to_action_elegent.php:119 widgets/call_to_action_modern.php:104
+msgid "SHow Additional Image"
+msgstr "إظهار صوره اضافيه"
+
+#: widgets/call_to_action_elegent.php:131
+msgid "Extra Image"
+msgstr "صورة اضافية"
+
+#: widgets/call_to_action_elegent.php:150
+msgid "Inspection List"
+msgstr "قائمه التفتيش"
+
+#: widgets/call_to_action_elegent.php:160
+msgid "Put list here"
+msgstr "ضع الرابط هنا"
+
+#: widgets/call_to_action_elegent.php:172
+msgid "Inspection"
+msgstr "الفحص"
+
+#: widgets/call_to_action_modern.php:22
+msgid "Call To Action(Modern)"
+msgstr "تطبيقات - دعوة إلى العمل الحديثة"
+
+#: widgets/call_to_action_modern.php:60
+msgid "Business directory theme "
+msgstr "نسق دليل الأعمال"
+
+#: widgets/call_to_action_two.php:22
+msgid "Call To Action Two"
+msgstr "الدعوة إلى الإجراء الثاني"
+
+#: widgets/categories-elegant.php:21
+msgid "Categories(Elegent)"
+msgstr "الفئات(Elegent)"
+
+#: widgets/categories-elegant.php:64 widgets/categories.php:21
+#: widgets/hero_one.php:198 widgets/hero_two.php:179
+#: widgets/shop-categories.php:111 widgets/shop-grid-slider.php:167
+#: widgets/shop-with-tab.php:147
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: widgets/categories-elegant.php:110 widgets/categories.php:85
+#: widgets/category-minimal.php:107 widgets/hero_one.php:190
+#: widgets/hero_two.php:171
+msgid "Grid Categories"
+msgstr "الفئات-الشبكة"
+
+#: widgets/categories-elegant.php:128
+msgid "Category Description"
+msgstr "الوصف"
+
+#: widgets/categories-elegant.php:138 widgets/categories.php:103
+#: widgets/category-minimal.php:125
+msgid "Choose Icon Image"
+msgstr "اختيار صورة رمز"
+
+#: widgets/categories.php:64
+msgid "Browse Our"
+msgstr "تصفح لدينا"
+
+#: widgets/categories.php:105
+msgid "Image size must be 64X64 px"
+msgstr "يجب أن يكون حجم الصورة 64X64 بكسل"
+
+#: widgets/category-minimal.php:18
+msgid "Categories(Minimal)"
+msgstr "الفئات-الحد الأدنى"
+
+#: widgets/category-minimal.php:61 widgets/hero_eight.php:66
+#: widgets/hero_five.php:66 widgets/hero_four.php:66 widgets/hero_nine.php:75
+#: widgets/hero_one.php:66 widgets/hero_six.php:66 widgets/hero_two.php:66
+msgid "Find Out"
+msgstr "يكتشف"
+
+#: widgets/clients.php:21
+msgid "Clients or Brands"
+msgstr "العملاء أو الشركاء"
+
+#: widgets/clients.php:84
+msgid "Clients"
+msgstr "العملاء"
+
+#: widgets/clients.php:92
+msgid "Client Link"
+msgstr "رابط العميل"
+
+#: widgets/clients.php:94
+msgid "www.abc.com"
+msgstr "www.abc.com"
+
+#: widgets/clients.php:101
+msgid "Choose logo Image"
+msgstr "اختيار صورة الشعار"
+
+#: widgets/clients.php:103
+msgid "image Size Should Be 140x95"
+msgstr "يجب ان يكون حجم الصورة القصوى"
+
+#: widgets/clients.php:114
+msgid "Select Clients"
+msgstr "تحديد العملاء"
+
+#: widgets/contact-us.php:23
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: widgets/contact-us.php:64
+msgid "Contact form 7 shortcode"
+msgstr "نموذج الاتصال 7 الرمز القصير"
+
+#: widgets/contact-us.php:66
+msgid "Put shortcode here"
+msgstr "وضع الرمز القصير هنا"
+
+#: widgets/contact-us.php:77 widgets/contact-us.php:93
+msgid "Address"
+msgstr "العنوان"
+
+#: widgets/contact-us.php:95
+msgid "Put address here"
+msgstr "ضع العنوان هنا"
+
+#: widgets/contact-us.php:106
+msgid "Working Hours"
+msgstr "ساعات"
+
+#: widgets/contact-us.php:122
+msgid "Hours"
+msgstr "ساعات"
+
+#: widgets/contact-us.php:124
+msgid "Put hours here"
+msgstr "وضع ساعات هنا"
+
+#: widgets/contact-us.php:135
+msgid "Contacts"
+msgstr "جهات الاتصال"
+
+#: widgets/contact-us.php:151
+msgid "Contact Number"
+msgstr "رقم الاتصال"
+
+#: widgets/contact-us.php:153
+msgid "Put contact number here"
+msgstr "وضع رقم الاتصال هنا"
+
+#: widgets/contact-us.php:164
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: widgets/contact-us.php:180
+msgid "Your Email"
+msgstr "ضع ايميلك"
+
+#: widgets/contact-us.php:182
+msgid "Put your email here"
+msgstr "ضع بريدك الإلكتروني هنا"
+
+#: widgets/custom-location-fancy.php:23
+msgid "Fancy Location"
+msgstr "موقع فاخر"
+
+#: widgets/custom-location-fancy.php:85 widgets/custom-locations.php:99
+msgid "Locations"
+msgstr "المواقع"
+
+#: widgets/custom-location-fancy.php:93 widgets/custom-locations.php:107
+#: widgets/hero_four.php:142 widgets/hero_one.php:161 widgets/hero_ten.php:127
+#: widgets/hero_two.php:152
+msgid "Select Location"
+msgstr "اختر الموقع الجغرافى"
+
+#: widgets/custom-locations.php:23
+msgid "Custom Location"
+msgstr "موقع مخصص"
+
+#: widgets/custom-locations.php:66
+msgid "Meet and Visit"
+msgstr "لقاء وزيارة"
+
+#: widgets/event-categories.php:53
+msgid "Filter Events"
+msgstr "تصفية الأحداث"
+
+#: widgets/event-categories.php:92
+msgid "Choose Image"
+msgstr "اختر صورة"
+
+#: widgets/event-categories.php:94
+msgid "Image Size must be 265X280 px"
+msgstr "يجب أن يكون حجم الصورة 265X280 بكسل"
+
+#: widgets/event-slider.php:23
+msgid "Event Slider"
+msgstr "شريط تمرير الحدث"
+
+#: widgets/event-slider.php:66
+msgid "Upcoming Events"
+msgstr "الأحداث القادمة"
+
+#: widgets/event-slider.php:77
+msgid "Event Slider Settings"
+msgstr "إعدادات شريط تمرير الحدث"
+
+#: widgets/event-slider.php:87 widgets/shop-grid-slider.php:110
+#: widgets/slider.php:23
+msgid "Slider"
+msgstr "إعدادات المنزلق المميزة"
+
+#: widgets/event-slider.php:125 widgets/hero_four.php:161
+msgid "Event Form"
+msgstr "نموذج الحدث"
+
+#: widgets/event-slider.php:133 widgets/hero_four.php:169
+msgid "Event Category"
+msgstr "فئة الحدث"
+
+#: widgets/faqs.php:21 widgets/faqs.php:84
+msgid "FAQ's"
+msgstr "الأسئلة الشائعة"
+
+#: widgets/faqs.php:92
+msgid "Question"
+msgstr "سؤال"
+
+#: widgets/faqs.php:101
+msgid "Answer"
+msgstr "إجابة"
+
+#: widgets/faqs.php:111
+msgid "Question & Answer"
+msgstr "سؤال وجواب"
+
+#: widgets/faqs.php:128
+msgid "Safety Tips"
+msgstr "نصائح السلامة"
+
+#: widgets/faqs.php:155
+msgid "Tips"
+msgstr "نصائح"
+
+#: widgets/faqs.php:164
+msgid "Add Tips"
+msgstr "إضافة تلميحات"
+
+#: widgets/fun-facts-new.php:23
+msgid "Fun Facts(New)"
+msgstr "حقائق ممتعه 2"
+
+#: widgets/fun-facts-new.php:57 widgets/fun-facts-new.php:96
+#: widgets/fun-facts.php:23 widgets/fun-facts.php:57 widgets/fun-facts.php:97
+msgid "Fun Facts"
+msgstr "حقائق ممتعة"
+
+#: widgets/fun-facts-new.php:65 widgets/fun-facts.php:65
+msgid "Number"
+msgstr "رقم"
+
+#: widgets/fun-facts-new.php:67 widgets/fun-facts.php:67
+msgid "3000"
+msgstr "3000"
+
+#: widgets/fun-facts-new.php:77 widgets/fun-facts.php:77
+#: widgets/how-it-work-new.php:117 widgets/how-it-work.php:96
+msgid "Title here"
+msgstr "العنوان هنا"
+
+#: widgets/fun-facts-new.php:84 widgets/fun-facts.php:84
+#: widgets/how-it-work-new.php:83 widgets/how-it-work-new.php:133
+#: widgets/how-it-work.php:112
+msgid "Image"
+msgstr "صوره"
+
+#: widgets/hero_eight.php:23
+msgid "Hero Eight (New)"
+msgstr "البطل ثمانية (جديد)"
+
+#: widgets/hero_eight.php:85 widgets/hero_five.php:114 widgets/hero_one.php:107
+#: widgets/hero_two.php:86
+msgid "Search Form"
+msgstr "نموذج البحث"
+
+#: widgets/hero_five.php:23
+msgid "Hero Five"
+msgstr "بطل خمسة"
+
+#: widgets/hero_five.php:68
+#, php-format
+msgid "%count% for total ads."
+msgstr "%count % عدد الإعلانات الإجمالي."
+
+#: widgets/hero_five.php:84
+msgid "Display tags?"
+msgstr "عرض الوسوم؟"
+
+#: widgets/hero_five.php:89 widgets/slider.php:66
+msgid "Yes"
+msgstr "نعم"
+
+#: widgets/hero_five.php:90 widgets/slider.php:67
+msgid "No"
+msgstr "لا"
+
+#: widgets/hero_five.php:97
+msgid "Max number of tags"
+msgstr "العدد الأقصى للوسوم"
+
+#: widgets/hero_four.php:23
+msgid "Hero Four(Listing & Event)"
+msgstr "البطل أربعة (قائمة وحدث)"
+
+#: widgets/hero_four.php:77
+msgid "Listing Form"
+msgstr "إعلان من"
+
+#: widgets/hero_four.php:112
+msgid "Listing Location"
+msgstr "المنطقة"
+
+#: widgets/hero_four.php:119 widgets/hero_one.php:148 widgets/hero_ten.php:102
+#: widgets/hero_three.php:92 widgets/hero_two.php:127
+msgid "Google location or custom location?"
+msgstr "موقع جوجل أو موقع مخصص ؟"
+
+#: widgets/hero_four.php:122 widgets/hero_one.php:151 widgets/hero_ten.php:105
+#: widgets/hero_two.php:130
+msgid "Google location"
+msgstr "الموقع"
+
+#: widgets/hero_four.php:123 widgets/hero_one.php:152 widgets/hero_ten.php:106
+#: widgets/hero_two.php:131
+msgid "Custom location"
+msgstr "موقع مخصص"
+
+#: widgets/hero_nine.php:23
+msgid "Hero Nine (New)"
+msgstr "البطل تسعة (جديد)"
+
+#: widgets/hero_nine.php:64
+msgid "First Heading"
+msgstr "العنوان الأول"
+
+#: widgets/hero_nine.php:66 widgets/hero_seven.php:66 widgets/hero_seven.php:75
+#: widgets/newsletter.php:67
+msgid "Put heading here"
+msgstr "ضع عنوان هنا"
+
+#: widgets/hero_nine.php:95
+msgid "Video Options"
+msgstr "خيارات الفيديو"
+
+#: widgets/hero_nine.php:102
+msgid "Want to show background video"
+msgstr "تريد إظهار الفيديو في الخلفية"
+
+#: widgets/hero_nine.php:114 widgets/hero_seven.php:92
+msgid "BG Video"
+msgstr "BG فيديو"
+
+#: widgets/hero_nine.php:116
+msgid "Put Youtube video url."
+msgstr "وضع يوتيوب فيديو URL."
+
+#: widgets/hero_one.php:23
+msgid "Hero One"
+msgstr "البطل واحد"
+
+#: widgets/hero_one.php:83
+msgid "Search Form Text"
+msgstr "Search Form Text"
+
+#: widgets/hero_one.php:85
+msgid "Put Search text here"
+msgstr "وضع نص البحث هنا"
+
+#: widgets/hero_one.php:92
+msgid "Show Clody Image"
+msgstr "إظهار صوره clody"
+
+#: widgets/hero_seven.php:23
+msgid "Hero Seven (YouTube)"
+msgstr "البطل سبعة (يوتيوب)"
+
+#: widgets/hero_seven.php:64
+msgid "Heading One"
+msgstr "العنوان الأول"
+
+#: widgets/hero_seven.php:73
+msgid "Heading Two"
+msgstr "العنوان الثاني"
+
+#: widgets/hero_seven.php:82
+msgid "Hero Section Tagline"
+msgstr "بطل قسم الخط التاجي"
+
+#: widgets/hero_seven.php:94
+msgid "Youtube video url."
+msgstr "رابط فيديو يوتيوب."
+
+#: widgets/hero_six.php:23
+msgid "Hero Six"
+msgstr "البطل ستة"
+
+#: widgets/hero_six.php:86
+msgid "Button Settings"
+msgstr "إعدادات الزر"
+
+#: widgets/hero_six.php:143
+msgid "Section Image"
+msgstr "الصور"
+
+#: widgets/hero_ten.php:23
+msgid "Hero Ten"
+msgstr "البطل عشرة"
+
+#: widgets/hero_ten.php:85
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: widgets/hero_ten.php:92
+msgid "Hero Section Title"
+msgstr "عنوان قسم الابطال"
+
+#: widgets/hero_ten.php:94
+msgid "Use | sign to add more words eg ( Attratction|Explore City|Food )."
+msgstr "استخدام | توقيع لأضافه المزيد من الكلمات علي سبيل المثال (أتراتكتيون | استكشف المدينة | الغذاء)."
+
+#: widgets/hero_three.php:23
+msgid "Hero Three"
+msgstr "البطل ثلاثة"
+
+#: widgets/hero_three.php:66
+msgid "Find Events Near"
+msgstr "البحث عن الأحداث القريبة"
+
+#: widgets/hero_three.php:85
+msgid "Event Or Listing"
+msgstr "الحدث أو القائمة"
+
+#: widgets/hero_three.php:95
+msgid "For Events Search"
+msgstr "للبحث عن الاحداث"
+
+#: widgets/hero_three.php:96
+msgid "For Listing Search"
+msgstr "للبحث عن الادراج"
+
+#: widgets/hero_two.php:23
+msgid "Hero Two"
+msgstr "البطل الثاني"
+
+#: widgets/how-it-work-new.php:23
+msgid "How It Work (New)"
+msgstr "كيف تعمل (جديد)"
+
+#: widgets/how-it-work-new.php:98 widgets/how-it-work-new.php:146
+#: widgets/how-it-work.php:86 widgets/how-it-work.php:124
+msgid "Steps"
+msgstr "الخطوات"
+
+#: widgets/how-it-work-new.php:106
+msgid "Process Number"
+msgstr "رقم العملية"
+
+#: widgets/how-it-work-new.php:108
+msgid "Like 01"
+msgstr "مثل 01"
+
+#: widgets/how-it-work-new.php:126 widgets/how-it-work.php:105
+msgid "Description here"
+msgstr "الوصف هنا"
+
+#: widgets/how-it-work-new.php:135
+msgid "size must be 64X64"
+msgstr "يجب أن يكون حجم 64X64"
+
+#: widgets/how-it-work.php:23
+msgid "How It Work"
+msgstr "كيف اكتشفتِ ذلك؟"
+
+#: widgets/listing-advertisement.php:23
+msgid "Listing with Advertisement"
+msgstr "سرد مع إعلان"
+
+#: widgets/listing-advertisement.php:179 widgets/listing-gallery.php:136
+#: widgets/listing-slider.php:154 widgets/listing-with-sidebar.php:179
+msgid "Listing Category"
+msgstr "الفئه:"
+
+#: widgets/listing-advertisement.php:213
+msgid "Advertisement"
+msgstr "إعلانات"
+
+#: widgets/listing-advertisement.php:220
+msgid "Banner Ad 720x90"
+msgstr "راية الاعلانيه 720x90"
+
+#: widgets/listing-advertisement.php:223
+msgid "Recommended ad size 720x90"
+msgstr "حجم الإعلان الموصي به 720x90"
+
+#: widgets/listing-advertisement.php:230
+msgid "Left Sticky Advertisement"
+msgstr "إعلان لزجه اليسار"
+
+#: widgets/listing-advertisement.php:233 widgets/listing-advertisement.php:243
+msgid "Recommended ad size 170x635"
+msgstr "حجم الإعلان الموصي به 170x635"
+
+#: widgets/listing-advertisement.php:240
+msgid "Right Sticky Advertisement"
+msgstr "الحق إعلان لزجه"
+
+#: widgets/listing-gallery.php:21
+msgid "Listing Gallery"
+msgstr "معرض القوائم"
+
+#: widgets/listing-slider.php:23
+msgid "Listing Slider"
+msgstr "شريط تمرير الادراج"
+
+#: widgets/listing-slider.php:86
+msgid "Listing settings"
+msgstr "اعدادات الاعلان"
+
+#: widgets/listing-with-sidebar.php:23
+msgid "Listing with Sidebar"
+msgstr "الادراج مع الشريط الجانبي"
+
+#: widgets/newsletter.php:23
+msgid "Newsletter"
+msgstr "النشرة الإخبارية"
+
+#: widgets/newsletter.php:64
+msgid "News Letter Heading"
+msgstr "عنوان الرسالة الاخباريه"
+
+#: widgets/newsletter.php:66
+msgid "Want to notified? Subscribe now"
+msgstr "هل تريد أن يتم إعلامك؟ اشترك الآن"
+
+#: widgets/newsletter.php:74
+msgid "Button Text"
+msgstr "نص الزر"
+
+#: widgets/newsletter.php:76
+msgid "Notify Me"
+msgstr "قم بإشعاري"
+
+#: widgets/newsletter.php:77
+msgid "Put Button text here"
+msgstr "وضع نص الزر هنا"
+
+#: widgets/packages.php:22
+msgid "Packages"
+msgstr "الباقات"
+
+#: widgets/packages.php:80
+msgid "Select Package"
+msgstr "‫اختيار باقة الاشتراك"
+
+#: widgets/packages.php:88 widgets/packages.php:98
+msgid "Package"
+msgstr "الباقة"
+
+#: widgets/shop-categories.php:23
+msgid "Shop Categories"
+msgstr "فئات المتاجر"
+
+#: widgets/shop-categories.php:129
+msgid "Category Image"
+msgstr "صورة الفئة"
+
+#: widgets/shop-grid-slider.php:23
+msgid "Shop With Grid Slider"
+msgstr "تسوق باستخدام شريط تمرير الشبكة"
+
+#: widgets/shop-grid-slider.php:86 widgets/shop-with-tab.php:110
+msgid "Product Settings"
+msgstr "اعدادات المنتج"
+
+#: widgets/shop-grid-slider.php:93 widgets/shop-with-tab.php:132
+msgid "Number fo Products"
+msgstr "عدد المنتجات fo"
+
+#: widgets/shop-grid-slider.php:105
+msgid "Product Layout Type"
+msgstr "نوع تخطيط المنتج"
+
+#: widgets/shop-with-tab.php:23
+msgid "Shop With Tabs"
+msgstr "متجر مع علامات التبويب"
+
+#: widgets/slider.php:64
+msgid "Overlay Effect"
+msgstr "تراكب تاثير"
+
+#: widgets/slider.php:79
+msgid "Slides"
+msgstr "الشرائح القائمة المتنقلة من"
+
+#: widgets/slider.php:87
+msgid "Slide Tagline"
+msgstr "الشريحة tagline"
+
+#: widgets/slider.php:96
+msgid "Slide Title"
+msgstr "في العنوان"
+
+#: widgets/slider.php:105
+msgid "Slide Description"
+msgstr "وصف الشريحة"
+
+#: widgets/slider.php:116
+msgid "View"
+msgstr "عرض"
+
+#: widgets/slider.php:141
+msgid "Slide Image"
+msgstr "صورة"
+
+#: widgets/testimonials.php:23
+msgid "DWT Testimonials"
+msgstr "DWT شهادات"
+
+#: widgets/testimonials.php:86 widgets/testimonials.php:122
+#: widgets/testimonials_new.php:86 widgets/testimonials_new.php:135
+msgid "Testimonials"
+msgstr "الشهادات - التوصيات"
+
+#: widgets/testimonials.php:94 widgets/testimonials_new.php:94
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+#: widgets/testimonials.php:113 widgets/testimonials_new.php:113
+msgid "User Desgination"
+msgstr "معلومات المستخدم"
+
+#: widgets/testimonials_new.php:23
+msgid "Testimonials(New)"
+msgstr "إضافة إشعار جديد"
+
+#: widgets/testimonials_new.php:122
+msgid "User Image"
+msgstr "صورة المستخدم"
+
+#: widgets/testimonials_new.php:124
+msgid "Image Size must be 70X70"
+msgstr "يجب أن يكون حجم الصورة 70X70"
+
+#: widgets/text-block.php:23
+msgid "Text Block"
+msgstr "كتلة المستخدم باستخدام البريد الإلكتروني مع عدد كبير جداً من الأحرف الكبيرة"
+
+#: widgets/text-block.php:94
+msgid "Type your content here"
+msgstr "اكتب المحتوى هنا"
+
+#. Plugin Name of the plugin/theme
+msgid "DWT Elementor Widgets"
+msgstr "DWT Elementor أو الحاجيات"
+
+#. Theme URI of the plugin/theme
+msgid "https://listing.downtown-directory.com/"
+msgstr "https://listing.downtown-directory.com/"
+
+#. Description of the plugin/theme
+msgid "This plugin is essential for the proper theme funcationality."
+msgstr "هذا البرنامج المساعد ضروري لموضوع المناسبة funcationality."
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr "حزمه مخطوطات"
+
+#. Author URI of the plugin/theme
+msgid "http://scriptsbundle.com/"
+msgstr "http://scriptsbundle.com/"

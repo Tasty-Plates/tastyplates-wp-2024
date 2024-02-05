@@ -1,0 +1,1485 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: DWT Elementor Widgets\n"
+"POT-Creation-Date: 2022-04-19 12:13+0500\n"
+"PO-Revision-Date: 2022-04-19 12:12+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: dwt-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: dwt-elementor.php:59
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: dwt-elementor.php:60 dwt-elementor.php:72
+msgid "DWT Elementor Widgets "
+msgstr ""
+
+#: dwt-elementor.php:61 dwt-elementor.php:85
+msgid "Elementor "
+msgstr ""
+
+#: dwt-elementor.php:71 dwt-elementor.php:84
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: dwt-elementor.php:73
+msgid "Elementor"
+msgstr ""
+
+#: dwt-elementor.php:86
+msgid "PHP"
+msgstr ""
+
+#: plugin.php:103
+msgid "DWT Listing Widgets"
+msgstr ""
+
+#: shortcodes-html.php:25
+msgid "No Image"
+msgstr ""
+
+#: shortcodes-html.php:45 shortcodes-html.php:113 shortcodes-html.php:131
+#: shortcodes-html.php:1704 shortcodes-html.php:1707 shortcodes-html.php:1751
+#: shortcodes-html.php:1754
+msgid "Image Not Found"
+msgstr ""
+
+#: shortcodes-html.php:431
+msgid "read more"
+msgstr ""
+
+#: shortcodes-html.php:574 shortcodes-html.php:580 shortcodes-html.php:643
+#: shortcodes-html.php:1018 shortcodes-html.php:3345 shortcodes-html.php:4063
+msgid "image not found"
+msgstr ""
+
+#: shortcodes-html.php:718 shortcodes-html.php:802 shortcodes-html.php:942
+#: shortcodes-html.php:1192 shortcodes-html.php:1269 shortcodes-html.php:3849
+msgid "Listings"
+msgstr ""
+
+#: shortcodes-html.php:875 shortcodes-html.php:3850
+msgid "Events"
+msgstr ""
+
+#: shortcodes-html.php:1187 shortcodes-html.php:2484 shortcodes-html.php:2822
+#: shortcodes-html.php:2901 shortcodes-html.php:2902
+msgid "not found"
+msgstr ""
+
+#: shortcodes-html.php:1577
+msgid "Shop Now"
+msgstr ""
+
+#: shortcodes-html.php:2429
+msgid "DWT Listing app"
+msgstr ""
+
+#: shortcodes-html.php:2435
+msgid "android icon"
+msgstr ""
+
+#: shortcodes-html.php:2436 shortcodes-html.php:2443
+msgid "Download from"
+msgstr ""
+
+#: shortcodes-html.php:2437
+msgid "Play Store"
+msgstr ""
+
+#: shortcodes-html.php:2442
+msgid "ios icon"
+msgstr ""
+
+#: shortcodes-html.php:2444
+msgid "App Store"
+msgstr ""
+
+#: shortcodes-html.php:2499 shortcodes-html.php:2713 shortcodes-html.php:2723
+#: shortcodes-html.php:2730 shortcodes-html.php:2734
+msgid "Processing..."
+msgstr ""
+
+#: shortcodes-html.php:2710 shortcodes-html.php:2716
+msgid "Already Purchased"
+msgstr ""
+
+#: shortcodes-html.php:2713 shortcodes-html.php:2723 shortcodes-html.php:2730
+#: shortcodes-html.php:2734
+msgid "Choose plan"
+msgstr ""
+
+#: shortcodes-html.php:2720 shortcodes-html.php:2728
+msgid "Already Used"
+msgstr ""
+
+#: shortcodes-html.php:2738
+msgid "Disable for Demo"
+msgstr ""
+
+#: shortcodes-html.php:3517 shortcodes-html.php:3659 shortcodes-html.php:3801
+#: shortcodes-html.php:4334
+msgid "By Street Address"
+msgstr ""
+
+#: shortcodes-html.php:3518 shortcodes-html.php:3660 shortcodes-html.php:3802
+#: shortcodes-html.php:4335
+msgid "Location..."
+msgstr ""
+
+#: shortcodes-html.php:3535 shortcodes-html.php:3703
+msgid "dwt-listing"
+msgstr ""
+
+#: shortcodes-html.php:3546 widgets/about-us-two.php:142
+#: widgets/about-us.php:125 widgets/contact-us.php:84
+#: widgets/contact-us.php:113 widgets/contact-us.php:142
+#: widgets/contact-us.php:171 widgets/fun-facts-new.php:75
+#: widgets/fun-facts.php:75 widgets/how-it-work-new.php:115
+#: widgets/how-it-work.php:94
+msgid "Title"
+msgstr ""
+
+#: shortcodes-html.php:3550 shortcodes-html.php:3860 shortcodes-html.php:3892
+#: shortcodes-html.php:3994 shortcodes-html.php:4188 shortcodes-html.php:4358
+msgid "What are you looking for"
+msgstr ""
+
+#: shortcodes-html.php:3556 shortcodes-html.php:3866 shortcodes-html.php:3897
+#: shortcodes-html.php:4193 widgets/all-events.php:170
+#: widgets/all-events.php:180 widgets/all-listings.php:200
+#: widgets/categories-elegant.php:150 widgets/categories.php:116
+#: widgets/category-minimal.php:137 widgets/custom-location-fancy.php:125
+#: widgets/custom-locations.php:129 widgets/event-categories.php:105
+#: widgets/hero_eight.php:103 widgets/hero_five.php:132
+#: widgets/hero_four.php:95 widgets/hero_one.php:125 widgets/hero_one.php:171
+#: widgets/hero_one.php:208 widgets/hero_two.php:104 widgets/hero_two.php:190
+#: widgets/listing-advertisement.php:197 widgets/listing-gallery.php:154
+#: widgets/listing-slider.php:172 widgets/listing-with-sidebar.php:197
+#: widgets/shop-categories.php:119 widgets/shop-categories.php:141
+#: widgets/shop-grid-slider.php:175 widgets/shop-grid-slider.php:185
+#: widgets/shop-with-tab.php:155 widgets/shop-with-tab.php:165
+#: widgets/slider.php:153
+msgid "Select Category"
+msgstr ""
+
+#: shortcodes-html.php:3557 shortcodes-html.php:3688 shortcodes-html.php:3867
+#: shortcodes-html.php:3998
+msgid "Select Business Category"
+msgstr ""
+
+#: shortcodes-html.php:3558 shortcodes-html.php:3689 shortcodes-html.php:3868
+#: shortcodes-html.php:3899 shortcodes-html.php:3999 shortcodes-html.php:4194
+#: shortcodes-html.php:4201
+msgid "Select an option"
+msgstr ""
+
+#: shortcodes-html.php:3563 shortcodes-html.php:3695 shortcodes-html.php:3752
+#: shortcodes-html.php:3879 shortcodes-html.php:3914 shortcodes-html.php:4004
+#: shortcodes-html.php:4206 shortcodes-html.php:4281 shortcodes-html.php:4370
+msgid "Search"
+msgstr ""
+
+#: shortcodes-html.php:3749
+msgid "What are you looking for ?"
+msgstr ""
+
+#: shortcodes-html.php:3858 shortcodes-html.php:3891
+msgid "Keyword"
+msgstr ""
+
+#: shortcodes-html.php:3898 widgets/event-slider.php:143
+#: widgets/hero_four.php:179
+msgid "Select Event Category"
+msgstr ""
+
+#: shortcodes-html.php:3906 widgets/hero_four.php:132 widgets/hero_one.php:141
+#: widgets/hero_ten.php:116 widgets/hero_two.php:120 widgets/hero_two.php:141
+msgid "Location"
+msgstr ""
+
+#: shortcodes-html.php:3907
+msgid "e.g. Event venues.."
+msgstr ""
+
+#: shortcodes-html.php:3966
+msgid "Popular Tags"
+msgstr ""
+
+#: shortcodes-html.php:4120 shortcodes-html.php:4251
+msgid "Video"
+msgstr ""
+
+#: shortcodes-html.php:4175
+msgid "No Image found"
+msgstr ""
+
+#: shortcodes-html.php:4200
+msgid "Filter by Tags"
+msgstr ""
+
+#: shortcodes-html.php:4277
+msgid "What Are You Looking For?"
+msgstr ""
+
+#: shortcodes-html.php:4354
+msgid "Explore"
+msgstr ""
+
+#: widgets/about-us-two.php:20 widgets/about-us-two.php:54
+msgid "About Us(New)"
+msgstr ""
+
+#: widgets/about-us-two.php:61 widgets/about-us.php:57
+msgid "About Heading"
+msgstr ""
+
+#: widgets/about-us-two.php:63 widgets/about-us-two.php:64
+#: widgets/about-us.php:59 widgets/about-us.php:61
+msgid "About DWT Listing Directory"
+msgstr ""
+
+#: widgets/about-us-two.php:73 widgets/about-us.php:69
+msgid "Your Tagline"
+msgstr ""
+
+#: widgets/about-us-two.php:83 widgets/about-us.php:78
+#: widgets/all-events.php:74 widgets/all-listings.php:74
+#: widgets/app-sections.php:109 widgets/blogs.php:73
+#: widgets/call-to-action-one.php:73 widgets/call_to_action_elegent.php:84
+#: widgets/call_to_action_modern.php:68 widgets/call_to_action_two.php:82
+#: widgets/categories-elegant.php:72 widgets/categories.php:72
+#: widgets/category-minimal.php:69 widgets/clients.php:71
+#: widgets/custom-location-fancy.php:73 widgets/custom-locations.php:74
+#: widgets/event-categories.php:61 widgets/faqs.php:71 widgets/faqs.php:144
+#: widgets/how-it-work-new.php:73 widgets/how-it-work.php:73
+#: widgets/listing-advertisement.php:73 widgets/listing-gallery.php:71
+#: widgets/listing-slider.php:73 widgets/listing-with-sidebar.php:73
+#: widgets/packages.php:67 widgets/shop-categories.php:73
+#: widgets/shop-grid-slider.php:73 widgets/shop-with-tab.php:73
+#: widgets/testimonials.php:73 widgets/testimonials_new.php:73
+#: widgets/text-block.php:73
+msgid "Section Description"
+msgstr ""
+
+#: widgets/about-us-two.php:92
+msgid "Grid Image Position"
+msgstr ""
+
+#: widgets/about-us-two.php:95 widgets/about-us.php:103
+msgid "Right"
+msgstr ""
+
+#: widgets/about-us-two.php:96 widgets/about-us.php:104
+msgid "Left"
+msgstr ""
+
+#: widgets/about-us-two.php:105
+msgid "Main Button Title"
+msgstr ""
+
+#: widgets/about-us-two.php:107 widgets/all-events.php:137
+#: widgets/all-listings.php:155 widgets/blogs.php:97
+#: widgets/call-to-action-one.php:85 widgets/call_to_action_elegent.php:96
+#: widgets/call_to_action_modern.php:80 widgets/call_to_action_two.php:94
+#: widgets/call_to_action_two.php:119 widgets/categories-elegant.php:84
+#: widgets/category-minimal.php:81 widgets/hero_seven.php:103
+#: widgets/hero_six.php:95 widgets/hero_six.php:120
+#: widgets/listing-advertisement.php:153 widgets/listing-with-sidebar.php:153
+#: widgets/shop-categories.php:85 widgets/shop-grid-slider.php:136
+#: widgets/shop-with-tab.php:85 widgets/slider.php:118
+msgid "Button title here"
+msgstr ""
+
+#: widgets/about-us-two.php:108
+msgid "Explore Listings"
+msgstr ""
+
+#: widgets/about-us-two.php:116
+msgid "Main Button Link"
+msgstr ""
+
+#: widgets/about-us-two.php:118 widgets/all-events.php:147
+#: widgets/all-listings.php:166 widgets/blogs.php:107
+#: widgets/call-to-action-one.php:95 widgets/call_to_action_elegent.php:106
+#: widgets/call_to_action_modern.php:91 widgets/call_to_action_two.php:104
+#: widgets/call_to_action_two.php:129 widgets/categories-elegant.php:94
+#: widgets/category-minimal.php:91 widgets/hero_seven.php:113
+#: widgets/hero_six.php:105 widgets/hero_six.php:130
+#: widgets/listing-advertisement.php:163 widgets/listing-with-sidebar.php:163
+#: widgets/shop-categories.php:95 widgets/shop-grid-slider.php:149
+#: widgets/shop-with-tab.php:95 widgets/slider.php:128
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/about-us-two.php:134 widgets/about-us.php:117
+msgid "Features"
+msgstr ""
+
+#: widgets/about-us-two.php:150 widgets/about-us.php:133
+#: widgets/custom-location-fancy.php:103 widgets/how-it-work-new.php:124
+#: widgets/how-it-work.php:103 widgets/testimonials.php:103
+#: widgets/testimonials_new.php:103
+msgid "Description"
+msgstr ""
+
+#: widgets/about-us-two.php:158 widgets/about-us.php:141
+#: widgets/custom-location-fancy.php:113 widgets/custom-locations.php:117
+msgid "Location Image"
+msgstr ""
+
+#: widgets/about-us-two.php:160
+msgid "Recommended image size 64x64 .png"
+msgstr ""
+
+#: widgets/about-us-two.php:171 widgets/about-us.php:154
+msgid "Feature List"
+msgstr ""
+
+#: widgets/about-us-two.php:176 widgets/about-us-two.php:216
+#: widgets/about-us.php:159
+msgid "Your Title"
+msgstr ""
+
+#: widgets/about-us-two.php:177 widgets/about-us.php:160
+msgid "Some Description"
+msgstr ""
+
+#: widgets/about-us-two.php:190 widgets/about-us-two.php:211
+msgid "Grid Images"
+msgstr ""
+
+#: widgets/about-us-two.php:198
+msgid "Grid Image"
+msgstr ""
+
+#: widgets/about-us-two.php:200
+msgid ""
+"Recommended image size 260x260 & should be 4 images to avoid design conflict"
+msgstr ""
+
+#: widgets/about-us.php:18 widgets/about-us.php:47
+msgid "About Us"
+msgstr ""
+
+#: widgets/about-us.php:87
+msgid "About Image"
+msgstr ""
+
+#: widgets/about-us.php:100
+msgid "Image Position"
+msgstr ""
+
+#: widgets/about-us.php:143 widgets/fun-facts.php:86
+msgid "Size must be 64X64"
+msgstr ""
+
+#: widgets/all-events.php:23
+msgid "All Events"
+msgstr ""
+
+#: widgets/all-events.php:57 widgets/all-listings.php:57
+#: widgets/app-sections.php:58 widgets/blogs.php:56
+#: widgets/categories-elegant.php:55 widgets/categories.php:55
+#: widgets/category-minimal.php:52 widgets/clients.php:55
+#: widgets/contact-us.php:57 widgets/custom-location-fancy.php:57
+#: widgets/custom-locations.php:57 widgets/event-categories.php:44
+#: widgets/event-slider.php:57 widgets/faqs.php:55 widgets/hero_eight.php:57
+#: widgets/hero_five.php:57 widgets/hero_four.php:57 widgets/hero_nine.php:57
+#: widgets/hero_one.php:57 widgets/hero_seven.php:57 widgets/hero_six.php:57
+#: widgets/hero_ten.php:57 widgets/hero_three.php:57 widgets/hero_two.php:57
+#: widgets/how-it-work-new.php:57 widgets/how-it-work.php:57
+#: widgets/listing-advertisement.php:57 widgets/listing-gallery.php:55
+#: widgets/listing-slider.php:57 widgets/listing-with-sidebar.php:57
+#: widgets/newsletter.php:57 widgets/packages.php:51
+#: widgets/shop-categories.php:57 widgets/shop-grid-slider.php:57
+#: widgets/shop-with-tab.php:57 widgets/slider.php:57
+#: widgets/testimonials.php:57 widgets/testimonials_new.php:57
+#: widgets/text-block.php:57 widgets/text-block.php:85
+msgid "Basic"
+msgstr ""
+
+#: widgets/all-events.php:64 widgets/all-listings.php:64
+#: widgets/app-sections.php:100 widgets/blogs.php:63
+#: widgets/call-to-action-one.php:63 widgets/call_to_action_elegent.php:74
+#: widgets/call_to_action_modern.php:58 widgets/call_to_action_two.php:63
+#: widgets/categories-elegant.php:62 widgets/categories.php:62
+#: widgets/category-minimal.php:59 widgets/clients.php:62
+#: widgets/custom-location-fancy.php:64 widgets/custom-locations.php:64
+#: widgets/event-categories.php:51 widgets/event-slider.php:64
+#: widgets/faqs.php:62 widgets/faqs.php:135 widgets/hero_eight.php:64
+#: widgets/hero_five.php:64 widgets/hero_four.php:64 widgets/hero_nine.php:73
+#: widgets/hero_one.php:64 widgets/hero_six.php:64 widgets/hero_ten.php:64
+#: widgets/hero_three.php:64 widgets/hero_two.php:64
+#: widgets/how-it-work-new.php:64 widgets/how-it-work.php:64
+#: widgets/listing-advertisement.php:64 widgets/listing-gallery.php:62
+#: widgets/listing-slider.php:64 widgets/listing-with-sidebar.php:64
+#: widgets/packages.php:58 widgets/shop-categories.php:64
+#: widgets/shop-grid-slider.php:64 widgets/shop-with-tab.php:64
+#: widgets/testimonials.php:64 widgets/testimonials_new.php:64
+#: widgets/text-block.php:64
+msgid "Section Title"
+msgstr ""
+
+#: widgets/all-events.php:66
+msgid "Latest Events"
+msgstr ""
+
+#: widgets/all-events.php:67 widgets/all-listings.php:67
+#: widgets/app-sections.php:102 widgets/call-to-action-one.php:66
+#: widgets/call_to_action_elegent.php:77 widgets/call_to_action_modern.php:61
+#: widgets/call_to_action_two.php:66 widgets/categories-elegant.php:65
+#: widgets/categories.php:65 widgets/category-minimal.php:62
+#: widgets/clients.php:64 widgets/contact-us.php:86 widgets/contact-us.php:115
+#: widgets/contact-us.php:144 widgets/contact-us.php:173
+#: widgets/custom-location-fancy.php:66 widgets/custom-locations.php:67
+#: widgets/event-categories.php:54 widgets/event-slider.php:67
+#: widgets/faqs.php:64 widgets/faqs.php:94 widgets/faqs.php:137
+#: widgets/faqs.php:157 widgets/hero_eight.php:67 widgets/hero_five.php:67
+#: widgets/hero_four.php:67 widgets/hero_nine.php:76 widgets/hero_one.php:67
+#: widgets/hero_six.php:67 widgets/hero_ten.php:67 widgets/hero_ten.php:96
+#: widgets/hero_three.php:67 widgets/hero_two.php:67
+#: widgets/how-it-work-new.php:66 widgets/how-it-work.php:66
+#: widgets/listing-advertisement.php:66 widgets/listing-gallery.php:64
+#: widgets/listing-slider.php:66 widgets/listing-with-sidebar.php:66
+#: widgets/packages.php:60 widgets/shop-categories.php:66
+#: widgets/shop-grid-slider.php:66 widgets/shop-with-tab.php:66
+#: widgets/slider.php:98 widgets/testimonials.php:66
+#: widgets/testimonials.php:96 widgets/testimonials.php:115
+#: widgets/testimonials_new.php:66 widgets/testimonials_new.php:96
+#: widgets/testimonials_new.php:115 widgets/text-block.php:66
+msgid "Put title here"
+msgstr ""
+
+#: widgets/all-events.php:76 widgets/app-sections.php:111
+#: widgets/call-to-action-one.php:75 widgets/call_to_action_elegent.php:86
+#: widgets/call_to_action_modern.php:70 widgets/call_to_action_two.php:84
+#: widgets/categories-elegant.php:74 widgets/categories-elegant.php:130
+#: widgets/categories.php:74 widgets/category-minimal.php:71
+#: widgets/clients.php:73 widgets/custom-location-fancy.php:75
+#: widgets/custom-location-fancy.php:105 widgets/custom-locations.php:76
+#: widgets/event-categories.php:63 widgets/faqs.php:73 widgets/faqs.php:103
+#: widgets/faqs.php:146 widgets/how-it-work-new.php:75
+#: widgets/how-it-work.php:75 widgets/listing-advertisement.php:75
+#: widgets/listing-gallery.php:73 widgets/listing-slider.php:75
+#: widgets/listing-with-sidebar.php:75 widgets/packages.php:69
+#: widgets/shop-categories.php:75 widgets/shop-grid-slider.php:75
+#: widgets/shop-with-tab.php:75 widgets/slider.php:107
+#: widgets/testimonials.php:75 widgets/testimonials.php:105
+#: widgets/testimonials_new.php:75 widgets/testimonials_new.php:105
+#: widgets/text-block.php:75
+msgid "Put Description here"
+msgstr ""
+
+#: widgets/all-events.php:87
+msgid "Event Settings"
+msgstr ""
+
+#: widgets/all-events.php:94 widgets/all-listings.php:110
+#: widgets/event-slider.php:96 widgets/listing-advertisement.php:108
+#: widgets/listing-gallery.php:106 widgets/listing-slider.php:108
+#: widgets/listing-with-sidebar.php:108 widgets/shop-grid-slider.php:119
+#: widgets/shop-with-tab.php:117
+msgid "Order By"
+msgstr ""
+
+#: widgets/all-events.php:98 widgets/all-listings.php:114
+#: widgets/event-slider.php:99 widgets/listing-advertisement.php:112
+#: widgets/listing-gallery.php:110 widgets/listing-slider.php:112
+#: widgets/listing-with-sidebar.php:112 widgets/shop-grid-slider.php:123
+#: widgets/shop-with-tab.php:121
+msgid "Oldest"
+msgstr ""
+
+#: widgets/all-events.php:99 widgets/all-listings.php:115
+#: widgets/event-slider.php:100 widgets/listing-advertisement.php:113
+#: widgets/listing-gallery.php:111 widgets/listing-slider.php:113
+#: widgets/listing-with-sidebar.php:113 widgets/shop-grid-slider.php:124
+#: widgets/shop-with-tab.php:122
+msgid "Latest"
+msgstr ""
+
+#: widgets/all-events.php:100 widgets/all-listings.php:116
+#: widgets/event-slider.php:101 widgets/listing-advertisement.php:114
+#: widgets/listing-gallery.php:112 widgets/listing-slider.php:114
+#: widgets/listing-with-sidebar.php:114 widgets/shop-grid-slider.php:125
+#: widgets/shop-with-tab.php:123
+msgid "Random"
+msgstr ""
+
+#: widgets/all-events.php:109 widgets/all-listings.php:125
+#: widgets/event-slider.php:84 widgets/listing-advertisement.php:123
+#: widgets/listing-slider.php:123 widgets/listing-with-sidebar.php:123
+msgid "Layout Type"
+msgstr ""
+
+#: widgets/all-events.php:113 widgets/shop-grid-slider.php:109
+msgid "Grid"
+msgstr ""
+
+#: widgets/all-events.php:114 widgets/call_to_action_elegent.php:158
+#: widgets/call_to_action_elegent.php:167 widgets/listing-with-sidebar.php:130
+msgid "List"
+msgstr ""
+
+#: widgets/all-events.php:123 widgets/event-slider.php:110
+msgid "Number fo Events"
+msgstr ""
+
+#: widgets/all-events.php:135 widgets/blogs.php:95
+#: widgets/call-to-action-one.php:83 widgets/call_to_action_elegent.php:94
+#: widgets/call_to_action_modern.php:78 widgets/call_to_action_two.php:92
+#: widgets/call_to_action_two.php:117 widgets/categories-elegant.php:82
+#: widgets/hero_seven.php:101 widgets/shop-categories.php:83
+msgid "Button Title"
+msgstr ""
+
+#: widgets/all-events.php:138 widgets/all-events.php:145
+#: widgets/call-to-action-one.php:86 widgets/call_to_action_elegent.php:97
+#: widgets/call_to_action_elegent.php:104 widgets/call_to_action_modern.php:81
+#: widgets/call_to_action_modern.php:89 widgets/call_to_action_two.php:95
+#: widgets/call_to_action_two.php:102 widgets/call_to_action_two.php:120
+#: widgets/call_to_action_two.php:127 widgets/categories-elegant.php:85
+#: widgets/categories-elegant.php:92 widgets/category-minimal.php:82
+#: widgets/hero_seven.php:104 widgets/hero_seven.php:111
+#: widgets/hero_six.php:96 widgets/hero_six.php:121 widgets/hero_six.php:128
+#: widgets/listing-advertisement.php:154 widgets/listing-with-sidebar.php:154
+#: widgets/shop-categories.php:86 widgets/shop-categories.php:93
+#: widgets/shop-grid-slider.php:137 widgets/shop-with-tab.php:86
+#: widgets/slider.php:119
+msgid "Button Link"
+msgstr ""
+
+#: widgets/all-events.php:162 widgets/event-categories.php:21
+#: widgets/event-categories.php:74
+msgid "Event Categories"
+msgstr ""
+
+#: widgets/all-listings.php:23
+msgid "All Listings"
+msgstr ""
+
+#: widgets/all-listings.php:66
+msgid "Exclusive"
+msgstr ""
+
+#: widgets/all-listings.php:76 widgets/blogs.php:66
+msgid "Put description here"
+msgstr ""
+
+#: widgets/all-listings.php:87 widgets/listing-advertisement.php:86
+#: widgets/listing-gallery.php:84 widgets/listing-with-sidebar.php:86
+msgid "Listing Settings"
+msgstr ""
+
+#: widgets/all-listings.php:94 widgets/listing-advertisement.php:93
+#: widgets/listing-gallery.php:91 widgets/listing-slider.php:93
+#: widgets/listing-with-sidebar.php:93
+msgid "Listing Type"
+msgstr ""
+
+#: widgets/all-listings.php:97 widgets/listing-advertisement.php:96
+#: widgets/listing-gallery.php:94 widgets/listing-slider.php:96
+#: widgets/listing-with-sidebar.php:96
+msgid "Select Listing Type"
+msgstr ""
+
+#: widgets/all-listings.php:98 widgets/listing-advertisement.php:97
+#: widgets/listing-gallery.php:95 widgets/listing-slider.php:97
+#: widgets/listing-with-sidebar.php:97
+msgid "Featured Listing"
+msgstr ""
+
+#: widgets/all-listings.php:99 widgets/listing-advertisement.php:98
+#: widgets/listing-gallery.php:96 widgets/listing-slider.php:98
+#: widgets/listing-with-sidebar.php:98
+msgid "Simple Listing"
+msgstr ""
+
+#: widgets/all-listings.php:100 widgets/listing-advertisement.php:99
+#: widgets/listing-gallery.php:97 widgets/listing-slider.php:99
+#: widgets/listing-with-sidebar.php:99
+msgid "Both"
+msgstr ""
+
+#: widgets/all-listings.php:113 widgets/listing-advertisement.php:111
+#: widgets/listing-gallery.php:109 widgets/listing-slider.php:111
+#: widgets/listing-with-sidebar.php:111 widgets/shop-grid-slider.php:122
+#: widgets/shop-with-tab.php:120
+msgid "Select Listing order"
+msgstr ""
+
+#: widgets/all-listings.php:128 widgets/listing-advertisement.php:126
+#: widgets/listing-slider.php:126
+msgid "Select Layout Type"
+msgstr ""
+
+#: widgets/all-listings.php:129 widgets/listing-advertisement.php:127
+#: widgets/listing-slider.php:127 widgets/listing-with-sidebar.php:126
+msgid "Grid 1"
+msgstr ""
+
+#: widgets/all-listings.php:130 widgets/listing-advertisement.php:128
+#: widgets/listing-slider.php:128 widgets/listing-with-sidebar.php:127
+msgid "Grid 2"
+msgstr ""
+
+#: widgets/all-listings.php:131 widgets/listing-advertisement.php:129
+#: widgets/listing-slider.php:129 widgets/listing-with-sidebar.php:128
+msgid "Grid 3"
+msgstr ""
+
+#: widgets/all-listings.php:132 widgets/listing-advertisement.php:130
+#: widgets/listing-slider.php:130 widgets/listing-with-sidebar.php:129
+msgid "Grid 4"
+msgstr ""
+
+#: widgets/all-listings.php:141 widgets/listing-advertisement.php:139
+#: widgets/listing-gallery.php:121 widgets/listing-slider.php:139
+#: widgets/listing-with-sidebar.php:139
+msgid "Number fo Listings"
+msgstr ""
+
+#: widgets/all-listings.php:153 widgets/category-minimal.php:79
+#: widgets/hero_six.php:93 widgets/hero_six.php:118
+#: widgets/listing-advertisement.php:151 widgets/listing-with-sidebar.php:151
+#: widgets/shop-grid-slider.php:134 widgets/shop-with-tab.php:83
+msgid "View All"
+msgstr ""
+
+#: widgets/all-listings.php:156 widgets/blogs.php:98
+msgid "View All Listings"
+msgstr ""
+
+#: widgets/all-listings.php:164 widgets/blogs.php:105
+#: widgets/call-to-action-one.php:93 widgets/category-minimal.php:89
+#: widgets/hero_six.php:103 widgets/listing-advertisement.php:161
+#: widgets/listing-with-sidebar.php:161 widgets/shop-grid-slider.php:147
+#: widgets/shop-with-tab.php:93 widgets/slider.php:126
+msgid "View All Button Link"
+msgstr ""
+
+#: widgets/all-listings.php:182
+msgid "Listing Categories"
+msgstr ""
+
+#: widgets/all-listings.php:190 widgets/blogs.php:153
+#: widgets/categories-elegant.php:118 widgets/categories.php:93
+#: widgets/category-minimal.php:115 widgets/event-categories.php:82
+#: widgets/hero_eight.php:93 widgets/hero_five.php:122 widgets/hero_four.php:85
+#: widgets/hero_one.php:115 widgets/hero_two.php:94
+#: widgets/listing-advertisement.php:187 widgets/listing-gallery.php:144
+#: widgets/listing-slider.php:162 widgets/listing-with-sidebar.php:187
+msgid "Category"
+msgstr ""
+
+#: widgets/app-sections.php:23
+msgid "App Section"
+msgstr ""
+
+#: widgets/app-sections.php:65 widgets/call_to_action_modern.php:116
+msgid "Background Image"
+msgstr ""
+
+#: widgets/app-sections.php:67
+msgid "image Size Should Be 1280X800"
+msgstr ""
+
+#: widgets/app-sections.php:78
+msgid "App Image"
+msgstr ""
+
+#: widgets/app-sections.php:80
+msgid "image Size Should Be 400X500"
+msgstr ""
+
+#: widgets/app-sections.php:91 widgets/call_to_action_elegent.php:64
+#: widgets/call_to_action_two.php:73 widgets/hero_eight.php:74
+#: widgets/hero_five.php:75 widgets/hero_nine.php:83 widgets/hero_one.php:74
+#: widgets/hero_six.php:74 widgets/hero_ten.php:73 widgets/hero_three.php:74
+#: widgets/hero_two.php:74
+msgid "Section Tagline"
+msgstr ""
+
+#: widgets/app-sections.php:93 widgets/call_to_action_elegent.php:67
+#: widgets/call_to_action_two.php:75 widgets/hero_eight.php:76
+#: widgets/hero_five.php:77 widgets/hero_nine.php:85 widgets/hero_one.php:76
+#: widgets/hero_seven.php:84 widgets/hero_six.php:76 widgets/hero_ten.php:76
+#: widgets/hero_three.php:76 widgets/hero_two.php:76 widgets/slider.php:89
+msgid "Put tagline here"
+msgstr ""
+
+#: widgets/app-sections.php:119
+msgid "Android Dwonload Link"
+msgstr ""
+
+#: widgets/app-sections.php:121 widgets/app-sections.php:130
+msgid "Put download link here"
+msgstr ""
+
+#: widgets/app-sections.php:128
+msgid "IOS Dwonload Link"
+msgstr ""
+
+#: widgets/blogs.php:22
+msgid "Blogs"
+msgstr ""
+
+#: widgets/blogs.php:65
+msgid "Recent Aticles"
+msgstr ""
+
+#: widgets/blogs.php:75
+msgid "From The Blog"
+msgstr ""
+
+#: widgets/blogs.php:83
+msgid "Number fo Blogs"
+msgstr ""
+
+#: widgets/blogs.php:120 widgets/custom-locations.php:84
+msgid "Show Pattern Image"
+msgstr ""
+
+#: widgets/blogs.php:122 widgets/call_to_action_elegent.php:121
+#: widgets/call_to_action_modern.php:106 widgets/custom-locations.php:86
+#: widgets/hero_nine.php:104 widgets/hero_one.php:94
+msgid "Show"
+msgstr ""
+
+#: widgets/blogs.php:123 widgets/call_to_action_elegent.php:122
+#: widgets/call_to_action_modern.php:107 widgets/custom-locations.php:87
+#: widgets/hero_nine.php:105 widgets/hero_one.php:95
+msgid "Hide"
+msgstr ""
+
+#: widgets/blogs.php:135
+msgid "Blog Categories"
+msgstr ""
+
+#: widgets/blogs.php:143
+msgid "Blog Category"
+msgstr ""
+
+#: widgets/call-to-action-one.php:22
+msgid "Call To Action"
+msgstr ""
+
+#: widgets/call-to-action-one.php:56 widgets/call_to_action_elegent.php:57
+#: widgets/call_to_action_modern.php:51 widgets/call_to_action_two.php:56
+#: widgets/text-block.php:92
+msgid "Content Area"
+msgstr ""
+
+#: widgets/call-to-action-one.php:65 widgets/call_to_action_two.php:65
+msgid "Larnge business directory theme "
+msgstr ""
+
+#: widgets/call_to_action_elegent.php:23
+msgid "Call To Action(Elegent)"
+msgstr ""
+
+#: widgets/call_to_action_elegent.php:66
+msgid "Want to sale your car ?"
+msgstr ""
+
+#: widgets/call_to_action_elegent.php:76
+msgid "Car Inspection"
+msgstr ""
+
+#: widgets/call_to_action_elegent.php:119 widgets/call_to_action_modern.php:104
+msgid "SHow Additional Image"
+msgstr ""
+
+#: widgets/call_to_action_elegent.php:131
+msgid "Extra Image"
+msgstr ""
+
+#: widgets/call_to_action_elegent.php:150
+msgid "Inspection List"
+msgstr ""
+
+#: widgets/call_to_action_elegent.php:160
+msgid "Put list here"
+msgstr ""
+
+#: widgets/call_to_action_elegent.php:172
+msgid "Inspection"
+msgstr ""
+
+#: widgets/call_to_action_modern.php:22
+msgid "Call To Action(Modern)"
+msgstr ""
+
+#: widgets/call_to_action_modern.php:60
+msgid "Business directory theme "
+msgstr ""
+
+#: widgets/call_to_action_two.php:22
+msgid "Call To Action Two"
+msgstr ""
+
+#: widgets/categories-elegant.php:21
+msgid "Categories(Elegent)"
+msgstr ""
+
+#: widgets/categories-elegant.php:64 widgets/categories.php:21
+#: widgets/hero_one.php:198 widgets/hero_two.php:179
+#: widgets/shop-categories.php:111 widgets/shop-grid-slider.php:167
+#: widgets/shop-with-tab.php:147
+msgid "Categories"
+msgstr ""
+
+#: widgets/categories-elegant.php:110 widgets/categories.php:85
+#: widgets/category-minimal.php:107 widgets/hero_one.php:190
+#: widgets/hero_two.php:171
+msgid "Grid Categories"
+msgstr ""
+
+#: widgets/categories-elegant.php:128
+msgid "Category Description"
+msgstr ""
+
+#: widgets/categories-elegant.php:138 widgets/categories.php:103
+#: widgets/category-minimal.php:125
+msgid "Choose Icon Image"
+msgstr ""
+
+#: widgets/categories.php:64
+msgid "Browse Our"
+msgstr ""
+
+#: widgets/categories.php:105
+msgid "Image size must be 64X64 px"
+msgstr ""
+
+#: widgets/category-minimal.php:18
+msgid "Categories(Minimal)"
+msgstr ""
+
+#: widgets/category-minimal.php:61 widgets/hero_eight.php:66
+#: widgets/hero_five.php:66 widgets/hero_four.php:66 widgets/hero_nine.php:75
+#: widgets/hero_one.php:66 widgets/hero_six.php:66 widgets/hero_two.php:66
+msgid "Find Out"
+msgstr ""
+
+#: widgets/clients.php:21
+msgid "Clients or Brands"
+msgstr ""
+
+#: widgets/clients.php:84
+msgid "Clients"
+msgstr ""
+
+#: widgets/clients.php:92
+msgid "Client Link"
+msgstr ""
+
+#: widgets/clients.php:94
+msgid "www.abc.com"
+msgstr ""
+
+#: widgets/clients.php:101
+msgid "Choose logo Image"
+msgstr ""
+
+#: widgets/clients.php:103
+msgid "image Size Should Be 140x95"
+msgstr ""
+
+#: widgets/clients.php:114
+msgid "Select Clients"
+msgstr ""
+
+#: widgets/contact-us.php:23
+msgid "Contact Us"
+msgstr ""
+
+#: widgets/contact-us.php:64
+msgid "Contact form 7 shortcode"
+msgstr ""
+
+#: widgets/contact-us.php:66
+msgid "Put shortcode here"
+msgstr ""
+
+#: widgets/contact-us.php:77 widgets/contact-us.php:93
+msgid "Address"
+msgstr ""
+
+#: widgets/contact-us.php:95
+msgid "Put address here"
+msgstr ""
+
+#: widgets/contact-us.php:106
+msgid "Working Hours"
+msgstr ""
+
+#: widgets/contact-us.php:122
+msgid "Hours"
+msgstr ""
+
+#: widgets/contact-us.php:124
+msgid "Put hours here"
+msgstr ""
+
+#: widgets/contact-us.php:135
+msgid "Contacts"
+msgstr ""
+
+#: widgets/contact-us.php:151
+msgid "Contact Number"
+msgstr ""
+
+#: widgets/contact-us.php:153
+msgid "Put contact number here"
+msgstr ""
+
+#: widgets/contact-us.php:164
+msgid "Email"
+msgstr ""
+
+#: widgets/contact-us.php:180
+msgid "Your Email"
+msgstr ""
+
+#: widgets/contact-us.php:182
+msgid "Put your email here"
+msgstr ""
+
+#: widgets/custom-location-fancy.php:23
+msgid "Fancy Location"
+msgstr ""
+
+#: widgets/custom-location-fancy.php:85 widgets/custom-locations.php:99
+msgid "Locations"
+msgstr ""
+
+#: widgets/custom-location-fancy.php:93 widgets/custom-locations.php:107
+#: widgets/hero_four.php:142 widgets/hero_one.php:161 widgets/hero_ten.php:127
+#: widgets/hero_two.php:152
+msgid "Select Location"
+msgstr ""
+
+#: widgets/custom-locations.php:23
+msgid "Custom Location"
+msgstr ""
+
+#: widgets/custom-locations.php:66
+msgid "Meet and Visit"
+msgstr ""
+
+#: widgets/event-categories.php:53
+msgid "Filter Events"
+msgstr ""
+
+#: widgets/event-categories.php:92
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/event-categories.php:94
+msgid "Image Size must be 265X280 px"
+msgstr ""
+
+#: widgets/event-slider.php:23
+msgid "Event Slider"
+msgstr ""
+
+#: widgets/event-slider.php:66
+msgid "Upcoming Events"
+msgstr ""
+
+#: widgets/event-slider.php:77
+msgid "Event Slider Settings"
+msgstr ""
+
+#: widgets/event-slider.php:87 widgets/shop-grid-slider.php:110
+#: widgets/slider.php:23
+msgid "Slider"
+msgstr ""
+
+#: widgets/event-slider.php:125 widgets/hero_four.php:161
+msgid "Event Form"
+msgstr ""
+
+#: widgets/event-slider.php:133 widgets/hero_four.php:169
+msgid "Event Category"
+msgstr ""
+
+#: widgets/faqs.php:21 widgets/faqs.php:84
+msgid "FAQ's"
+msgstr ""
+
+#: widgets/faqs.php:92
+msgid "Question"
+msgstr ""
+
+#: widgets/faqs.php:101
+msgid "Answer"
+msgstr ""
+
+#: widgets/faqs.php:111
+msgid "Question & Answer"
+msgstr ""
+
+#: widgets/faqs.php:128
+msgid "Safety Tips"
+msgstr ""
+
+#: widgets/faqs.php:155
+msgid "Tips"
+msgstr ""
+
+#: widgets/faqs.php:164
+msgid "Add Tips"
+msgstr ""
+
+#: widgets/fun-facts-new.php:23
+msgid "Fun Facts(New)"
+msgstr ""
+
+#: widgets/fun-facts-new.php:57 widgets/fun-facts-new.php:96
+#: widgets/fun-facts.php:23 widgets/fun-facts.php:57 widgets/fun-facts.php:97
+msgid "Fun Facts"
+msgstr ""
+
+#: widgets/fun-facts-new.php:65 widgets/fun-facts.php:65
+msgid "Number"
+msgstr ""
+
+#: widgets/fun-facts-new.php:67 widgets/fun-facts.php:67
+msgid "3000"
+msgstr ""
+
+#: widgets/fun-facts-new.php:77 widgets/fun-facts.php:77
+#: widgets/how-it-work-new.php:117 widgets/how-it-work.php:96
+msgid "Title here"
+msgstr ""
+
+#: widgets/fun-facts-new.php:84 widgets/fun-facts.php:84
+#: widgets/how-it-work-new.php:83 widgets/how-it-work-new.php:133
+#: widgets/how-it-work.php:112
+msgid "Image"
+msgstr ""
+
+#: widgets/hero_eight.php:23
+msgid "Hero Eight (New)"
+msgstr ""
+
+#: widgets/hero_eight.php:85 widgets/hero_five.php:114 widgets/hero_one.php:107
+#: widgets/hero_two.php:86
+msgid "Search Form"
+msgstr ""
+
+#: widgets/hero_five.php:23
+msgid "Hero Five"
+msgstr ""
+
+#: widgets/hero_five.php:68
+#, php-format
+msgid "%count% for total ads."
+msgstr ""
+
+#: widgets/hero_five.php:84
+msgid "Display tags?"
+msgstr ""
+
+#: widgets/hero_five.php:89 widgets/slider.php:66
+msgid "Yes"
+msgstr ""
+
+#: widgets/hero_five.php:90 widgets/slider.php:67
+msgid "No"
+msgstr ""
+
+#: widgets/hero_five.php:97
+msgid "Max number of tags"
+msgstr ""
+
+#: widgets/hero_four.php:23
+msgid "Hero Four(Listing & Event)"
+msgstr ""
+
+#: widgets/hero_four.php:77
+msgid "Listing Form"
+msgstr ""
+
+#: widgets/hero_four.php:112
+msgid "Listing Location"
+msgstr ""
+
+#: widgets/hero_four.php:119 widgets/hero_one.php:148 widgets/hero_ten.php:102
+#: widgets/hero_three.php:92 widgets/hero_two.php:127
+msgid "Google location or custom location?"
+msgstr ""
+
+#: widgets/hero_four.php:122 widgets/hero_one.php:151 widgets/hero_ten.php:105
+#: widgets/hero_two.php:130
+msgid "Google location"
+msgstr ""
+
+#: widgets/hero_four.php:123 widgets/hero_one.php:152 widgets/hero_ten.php:106
+#: widgets/hero_two.php:131
+msgid "Custom location"
+msgstr ""
+
+#: widgets/hero_nine.php:23
+msgid "Hero Nine (New)"
+msgstr ""
+
+#: widgets/hero_nine.php:64
+msgid "First Heading"
+msgstr ""
+
+#: widgets/hero_nine.php:66 widgets/hero_seven.php:66 widgets/hero_seven.php:75
+#: widgets/newsletter.php:67
+msgid "Put heading here"
+msgstr ""
+
+#: widgets/hero_nine.php:95
+msgid "Video Options"
+msgstr ""
+
+#: widgets/hero_nine.php:102
+msgid "Want to show background video"
+msgstr ""
+
+#: widgets/hero_nine.php:114 widgets/hero_seven.php:92
+msgid "BG Video"
+msgstr ""
+
+#: widgets/hero_nine.php:116
+msgid "Put Youtube video url."
+msgstr ""
+
+#: widgets/hero_one.php:23
+msgid "Hero One"
+msgstr ""
+
+#: widgets/hero_one.php:83
+msgid "Search Form Text"
+msgstr ""
+
+#: widgets/hero_one.php:85
+msgid "Put Search text here"
+msgstr ""
+
+#: widgets/hero_one.php:92
+msgid "Show Clody Image"
+msgstr ""
+
+#: widgets/hero_seven.php:23
+msgid "Hero Seven (YouTube)"
+msgstr ""
+
+#: widgets/hero_seven.php:64
+msgid "Heading One"
+msgstr ""
+
+#: widgets/hero_seven.php:73
+msgid "Heading Two"
+msgstr ""
+
+#: widgets/hero_seven.php:82
+msgid "Hero Section Tagline"
+msgstr ""
+
+#: widgets/hero_seven.php:94
+msgid "Youtube video url."
+msgstr ""
+
+#: widgets/hero_six.php:23
+msgid "Hero Six"
+msgstr ""
+
+#: widgets/hero_six.php:86
+msgid "Button Settings"
+msgstr ""
+
+#: widgets/hero_six.php:143
+msgid "Section Image"
+msgstr ""
+
+#: widgets/hero_ten.php:23
+msgid "Hero Ten"
+msgstr ""
+
+#: widgets/hero_ten.php:85
+msgid "Settings"
+msgstr ""
+
+#: widgets/hero_ten.php:92
+msgid "Hero Section Title"
+msgstr ""
+
+#: widgets/hero_ten.php:94
+msgid "Use | sign to add more words eg ( Attratction|Explore City|Food )."
+msgstr ""
+
+#: widgets/hero_three.php:23
+msgid "Hero Three"
+msgstr ""
+
+#: widgets/hero_three.php:66
+msgid "Find Events Near"
+msgstr ""
+
+#: widgets/hero_three.php:85
+msgid "Event Or Listing"
+msgstr ""
+
+#: widgets/hero_three.php:95
+msgid "For Events Search"
+msgstr ""
+
+#: widgets/hero_three.php:96
+msgid "For Listing Search"
+msgstr ""
+
+#: widgets/hero_two.php:23
+msgid "Hero Two"
+msgstr ""
+
+#: widgets/how-it-work-new.php:23
+msgid "How It Work (New)"
+msgstr ""
+
+#: widgets/how-it-work-new.php:98 widgets/how-it-work-new.php:146
+#: widgets/how-it-work.php:86 widgets/how-it-work.php:124
+msgid "Steps"
+msgstr ""
+
+#: widgets/how-it-work-new.php:106
+msgid "Process Number"
+msgstr ""
+
+#: widgets/how-it-work-new.php:108
+msgid "Like 01"
+msgstr ""
+
+#: widgets/how-it-work-new.php:126 widgets/how-it-work.php:105
+msgid "Description here"
+msgstr ""
+
+#: widgets/how-it-work-new.php:135
+msgid "size must be 64X64"
+msgstr ""
+
+#: widgets/how-it-work.php:23
+msgid "How It Work"
+msgstr ""
+
+#: widgets/listing-advertisement.php:23
+msgid "Listing with Advertisement"
+msgstr ""
+
+#: widgets/listing-advertisement.php:179 widgets/listing-gallery.php:136
+#: widgets/listing-slider.php:154 widgets/listing-with-sidebar.php:179
+msgid "Listing Category"
+msgstr ""
+
+#: widgets/listing-advertisement.php:213
+msgid "Advertisement"
+msgstr ""
+
+#: widgets/listing-advertisement.php:220
+msgid "Banner Ad 720x90"
+msgstr ""
+
+#: widgets/listing-advertisement.php:223
+msgid "Recommended ad size 720x90"
+msgstr ""
+
+#: widgets/listing-advertisement.php:230
+msgid "Left Sticky Advertisement"
+msgstr ""
+
+#: widgets/listing-advertisement.php:233 widgets/listing-advertisement.php:243
+msgid "Recommended ad size 170x635"
+msgstr ""
+
+#: widgets/listing-advertisement.php:240
+msgid "Right Sticky Advertisement"
+msgstr ""
+
+#: widgets/listing-gallery.php:21
+msgid "Listing Gallery"
+msgstr ""
+
+#: widgets/listing-slider.php:23
+msgid "Listing Slider"
+msgstr ""
+
+#: widgets/listing-slider.php:86
+msgid "Listing settings"
+msgstr ""
+
+#: widgets/listing-with-sidebar.php:23
+msgid "Listing with Sidebar"
+msgstr ""
+
+#: widgets/newsletter.php:23
+msgid "Newsletter"
+msgstr ""
+
+#: widgets/newsletter.php:64
+msgid "News Letter Heading"
+msgstr ""
+
+#: widgets/newsletter.php:66
+msgid "Want to notified? Subscribe now"
+msgstr ""
+
+#: widgets/newsletter.php:74
+msgid "Button Text"
+msgstr ""
+
+#: widgets/newsletter.php:76
+msgid "Notify Me"
+msgstr ""
+
+#: widgets/newsletter.php:77
+msgid "Put Button text here"
+msgstr ""
+
+#: widgets/packages.php:22
+msgid "Packages"
+msgstr ""
+
+#: widgets/packages.php:80
+msgid "Select Package"
+msgstr ""
+
+#: widgets/packages.php:88 widgets/packages.php:98
+msgid "Package"
+msgstr ""
+
+#: widgets/shop-categories.php:23
+msgid "Shop Categories"
+msgstr ""
+
+#: widgets/shop-categories.php:129
+msgid "Category Image"
+msgstr ""
+
+#: widgets/shop-grid-slider.php:23
+msgid "Shop With Grid Slider"
+msgstr ""
+
+#: widgets/shop-grid-slider.php:86 widgets/shop-with-tab.php:110
+msgid "Product Settings"
+msgstr ""
+
+#: widgets/shop-grid-slider.php:93 widgets/shop-with-tab.php:132
+msgid "Number fo Products"
+msgstr ""
+
+#: widgets/shop-grid-slider.php:105
+msgid "Product Layout Type"
+msgstr ""
+
+#: widgets/shop-with-tab.php:23
+msgid "Shop With Tabs"
+msgstr ""
+
+#: widgets/slider.php:64
+msgid "Overlay Effect"
+msgstr ""
+
+#: widgets/slider.php:79
+msgid "Slides"
+msgstr ""
+
+#: widgets/slider.php:87
+msgid "Slide Tagline"
+msgstr ""
+
+#: widgets/slider.php:96
+msgid "Slide Title"
+msgstr ""
+
+#: widgets/slider.php:105
+msgid "Slide Description"
+msgstr ""
+
+#: widgets/slider.php:116
+msgid "View"
+msgstr ""
+
+#: widgets/slider.php:141
+msgid "Slide Image"
+msgstr ""
+
+#: widgets/testimonials.php:23
+msgid "DWT Testimonials"
+msgstr ""
+
+#: widgets/testimonials.php:86 widgets/testimonials.php:122
+#: widgets/testimonials_new.php:86 widgets/testimonials_new.php:135
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/testimonials.php:94 widgets/testimonials_new.php:94
+msgid "User Name"
+msgstr ""
+
+#: widgets/testimonials.php:113 widgets/testimonials_new.php:113
+msgid "User Desgination"
+msgstr ""
+
+#: widgets/testimonials_new.php:23
+msgid "Testimonials(New)"
+msgstr ""
+
+#: widgets/testimonials_new.php:122
+msgid "User Image"
+msgstr ""
+
+#: widgets/testimonials_new.php:124
+msgid "Image Size must be 70X70"
+msgstr ""
+
+#: widgets/text-block.php:23
+msgid "Text Block"
+msgstr ""
+
+#: widgets/text-block.php:94
+msgid "Type your content here"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "DWT Elementor Widgets"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://listing.downtown-directory.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin is essential for the proper theme funcationality."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://scriptsbundle.com/"
+msgstr ""
