@@ -704,56 +704,56 @@ function display_custom_post_editors_choice_shortcode($atts) {
     $output = '<div class="flex cs-editorschoice">';
 
     $output .= '<a class="flex-0 cs-editorschoicebox" href="/tastyplates/5-best-restaurants-in-grande-prairie/">
-	    			<img src="/tastyplates/wp-content/uploads/2018/02/Rectangle-41.png">
+	    			<img src="/wp-content/uploads/2018/02/Rectangle-41.png">
 	    			<h4>5 Best Restaurants in '.$atts['location'].'</h4>
 	    			<span>Go-to food place in '.$atts['location'].'?</span>
     			</a>';
 
 	$output .= '<div class="flex-0 cs-editorschoicebox">
-		<img src="/tastyplates/wp-content/uploads/2018/02/Rectangle-41-1.png">
+		<img src="/wp-content/uploads/2018/02/Rectangle-41-1.png">
 		<h4>Top 10 Dessert House in '.$atts['location'].'</h4>
 		<span>Go-to food place in '.$atts['location'].'?</span>
 	</div>';
 
 	$output .= '<div class="flex-0 cs-editorschoicebox">
-		<img src="/tastyplates/wp-content/uploads/2018/02/Rectangle-41-2.png">
+		<img src="/wp-content/uploads/2018/02/Rectangle-41-2.png">
 		<h4>5 Best Breakfast in '.$atts['location'].'</h4>
 		<span>Go-to food place in '.$atts['location'].'?</span>
 	</div>';
 
 	$output .= '<div class="flex-0 cs-editorschoicebox">
-		<img src="/tastyplates/wp-content/uploads/2018/02/Rectangle-41-3.png">
+		<img src="/wp-content/uploads/2018/02/Rectangle-41-3.png">
 		<h4>Top 10 Dessert House in '.$atts['location'].'</h4>
 		<span>Go-to food place in '.$atts['location'].'?</span>
 	</div>';
 
 	$output .= '<div class="flex-0 cs-editorschoicebox">
-		<img src="/tastyplates/wp-content/uploads/2018/02/Rectangle-41-4.png">
+		<img src="/wp-content/uploads/2018/02/Rectangle-41-4.png">
 		<h4>Top 5 Mexican Restaurants in '.$atts['location'].'</h4>
 		<span>Go-to food place in '.$atts['location'].'?</span>
 	</div>';
 
 	$output .= '<div class="flex-0 cs-editorschoicebox">
-		<img src="/tastyplates/wp-content/uploads/2018/02/Rectangle-41-5.png">
+		<img src="/wp-content/uploads/2018/02/Rectangle-41-5.png">
 		<h4>Salad Houses in '.$atts['location'].'</h4>
 		<span>Go-to food place in '.$atts['location'].'?</span>
 	</div>';
 
 	$output .= '<div class="flex-0 cs-editorschoicebox">
-		<img src="/tastyplates/wp-content/uploads/2018/02/Rectangle-41-10.png">
+		<img src="/wp-content/uploads/2018/02/Rectangle-41-10.png">
 		<h4>Top 5 Western Resto in '.$atts['location'].'</h4>
 		<span>Go-to food place in '.$atts['location'].'?</span>
 	</div>';
 
 
 	$output .= '<div class="flex-0 cs-editorschoicebox">
-		<img src="/tastyplates/wp-content/uploads/2018/02/Rectangle-41-8.png">
+		<img src="/wp-content/uploads/2018/02/Rectangle-41-8.png">
 		<h4>Top Vietnamese in '.$atts['location'].'</h4>
 		<span>Go-to food place in '.$atts['location'].'?</span>
 	</div>';
 
 	$output .= '<div class="flex-0 cs-editorschoicebox">
-		<img src="/tastyplates/wp-content/uploads/2018/02/Rectangle-41-9.png">
+		<img src="/wp-content/uploads/2018/02/Rectangle-41-9.png">
 		<h4>Japanese Restaurants in '.$atts['location'].'</h4>
 		<span>Go-to food place in '.$atts['location'].'?</span>
 	</div>';

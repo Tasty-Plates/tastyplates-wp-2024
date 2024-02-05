@@ -281,6 +281,9 @@ a.cs-seemore {
 
 .mega-menu .menu-links > li > a, nav.mega-menu.transparent:not(.desktopTopFixed) .menu-links > li > a, .mega-menu.header2 .menu-button li a {
     color: #fff !important;
+    border-radius: 50px;
+    line-height: 37px !important;
+    border: 1px solid transparent;
 }
 
 .mega-menu .menu-links > li > a:hover {
