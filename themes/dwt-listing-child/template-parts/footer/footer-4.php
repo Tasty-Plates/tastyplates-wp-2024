@@ -7,7 +7,7 @@
 <div class="cs-footer">
         <div class="container cs-container cs-footercontainer">
             <div class="flex-0 cs-footerinfo">
-                <img src="/tastyplates/wp-content/uploads/2018/02/Tastyplates.png">
+                <img src="/wp-content/uploads/2018/02/Tastyplates.png">
                 <div>
                     Lorem ipsum dolor sit amet consectetur. Eu sa pien morbi egestas ligula aliquet quisque lacus faucibus. Faucibus sed aenean amet magna.
                 </div>
@@ -15,15 +15,15 @@
                     Follow us
                     <span class="cs-spacer"></span>
                     <a href="#">
-                        <img src="/tastyplates/wp-content/uploads/2018/02/mdi_instagram.png">
+                        <img src="/wp-content/uploads/2018/02/mdi_instagram.png">
                     </a>
 
                     <a href="#">
-                        <img src="/tastyplates/wp-content/uploads/2018/02/mdi_youtube.png">
+                        <img src="/wp-content/uploads/2018/02/mdi_youtube.png">
                     </a>
 
                     <a href="#">
-                        <img src="/tastyplates/wp-content/uploads/2018/02/mdi_facebook.png">
+                        <img src="/wp-content/uploads/2018/02/mdi_facebook.png">
                     </a>
                 </div>
             </div>
